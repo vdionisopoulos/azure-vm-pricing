@@ -4,6 +4,8 @@
 //          acceleratedNetworking, premiumStorage, arch, prices:{region:{l,w,r1,r3,s1,s3}}}] }
 // Prices are USD per hour per VM. Reservations and savings plans cover compute only.
 
+import { gpuOf } from "./gpus.js";
+
 export const HOURS_PER_MONTH = 730;
 const SITE = "https://cld2day.com";
 
@@ -12,6 +14,7 @@ export const WORKLOADS = {
   compute: ["Compute optimized"],
   memory: ["Memory optimized"],
   storage: ["Storage optimized"],
+  ai: ["GPU"],   // NVIDIA GPUs only (CUDA, PyTorch, vLLM); see gpuOf
   gpu: ["GPU"],
   hpc: ["High performance compute"],
   confidential: ["Confidential compute"],
@@ -120,7 +123,9 @@ export function findSizes(idx, q = {}) {
     if (sku.vcpus < minVcpus || sku.memoryGiB < minMem) continue;
     if (arch && sku.arch !== arch) continue;
     if (q.needTempDisk && !(sku.tempDiskGiB > 0)) continue;
-    if (q.minGpus && !(sku.gpus >= Number(q.minGpus))) continue;
+    const gpu = gpuOf(sku);
+    if (workload === "ai" && !gpu?.cudaAiStack) continue;
+    if (q.minGpus && !(gpu && !gpu.share && gpu.count >= Number(q.minGpus))) continue;
     const priced = priceIn(sku, region, windows);
     if (!priced) continue;
     matches.push({ sku, ...priced, hourly: rate(priced.p, windows), excess: excess(sku) });
@@ -141,7 +146,8 @@ export function findSizes(idx, q = {}) {
         size: m.sku.name,
         vcpus: m.sku.vcpus,
         memoryGiB: m.sku.memoryGiB,
-        gpus: m.sku.gpus || 0,
+        gpus: gpuOf(m.sku)?.count || 0,
+        gpu: gpuOf(m.sku) || undefined,
         tempDiskGiB: m.sku.tempDiskGiB || 0,
         arch: m.sku.arch,
         category: m.sku.category,
@@ -184,7 +190,8 @@ export function describeSize(idx, sizeInput, opts = {}) {
     category: sku.category,
     vcpus: sku.vcpus,
     memoryGiB: sku.memoryGiB,
-    gpus: sku.gpus || 0,
+    gpus: gpuOf(sku)?.count || 0,
+    gpu: gpuOf(sku) || undefined,
     tempDiskGiB: sku.tempDiskGiB || 0,
     maxDataDisks: sku.maxDataDisks,
     maxNics: sku.maxNics,

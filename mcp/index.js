@@ -6,7 +6,7 @@ import { z } from "zod";
 import { describeSize, estimateCost, findSizes, indexCatalog, priceChanges, WORKLOADS } from "./src/catalog.js";
 import { loadCatalog, loadChanges } from "./src/data.js";
 
-const server = new McpServer({ name: "azure-vm-pricing", version: "0.1.0" });
+const server = new McpServer({ name: "azure-vm-pricing", version: "0.1.4" });
 
 let index;
 async function idx() {
@@ -14,8 +14,20 @@ async function idx() {
   return index;
 }
 
-function reply(result) {
-  return { content: [{ type: "text", text: JSON.stringify(result, null, 2) }] };
+// Every answer says where the numbers come from and how fresh they are.
+async function provenance() {
+  const { catalog } = await idx();
+  return {
+    pricesAsOf: catalog.generatedUtc || null,
+    currency: catalog.currency || "USD",
+    source: "Microsoft Azure Retail Prices API (public USD list prices) and az vm list-skus, refreshed weekly",
+    dataset: "https://github.com/vdionisopoulos/azure-vm-pricing",
+  };
+}
+
+async function reply(result) {
+  const body = { ...result, dataSource: await provenance() };
+  return { content: [{ type: "text", text: JSON.stringify(body, null, 2) }] };
 }
 
 function fail(err) {
@@ -24,7 +36,7 @@ function fail(err) {
 
 const run = (fn) => async (args) => {
   try {
-    return reply(await fn(args));
+    return await reply(await fn(args));
   } catch (err) {
     return fail(err);
   }
@@ -39,14 +51,14 @@ server.registerTool("find_vm_sizes", {
   description: "Find the cheapest Azure VM sizes that meet vCPU, memory and workload requirements, with monthly USD list prices. "
     + "Burstable (B-series) and confidential sizes are only included when that workload is requested.",
   inputSchema: {
-    min_vcpus: z.number().int().min(0).optional().describe("Minimum vCPUs."),
-    min_memory_gib: z.number().min(0).optional().describe("Minimum memory in GiB."),
-    workload: z.enum(Object.keys(WORKLOADS)).optional().describe("Workload family. Omit for any (excludes burstable and confidential)."),
+    min_vcpus: z.number().int().min(0).max(1024).optional().describe("Minimum vCPUs, e.g. 8."),
+    min_memory_gib: z.number().min(0).max(32768).optional().describe("Minimum memory in GiB, e.g. 32."),
+    workload: z.enum(Object.keys(WORKLOADS)).optional().describe("Workload family. ai = NVIDIA GPUs only (CUDA, PyTorch, vLLM); gpu = any GPU incl. AMD. Omit for any (excludes burstable and confidential)."),
     region,
     os,
     arch: z.enum(["x64", "arm64"]).optional().describe("CPU architecture."),
     need_temp_disk: z.boolean().optional().describe("Only sizes with a local temporary disk."),
-    min_gpus: z.number().int().min(1).optional().describe("Minimum number of GPUs."),
+    min_gpus: z.number().int().min(1).max(16).optional().describe("Minimum number of whole GPUs (partitioned GPUs such as 1/6 A10 do not count)."),
     sort: z.enum(["price", "fit"]).optional().describe("price = cheapest first (default); fit = least spare vCPU/memory first."),
     max_results: z.number().int().min(1).max(50).optional().describe("Default 10."),
   },

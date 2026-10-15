@@ -78,3 +78,22 @@ test("price changes are decoded with region names and percentages", () => {
   assert.equal(out[0].biggestPriceMoves[0].region, "West Europe");
   assert.equal(out[0].biggestPriceMoves[0].changePercent, 10);
 });
+
+test("gpu: ai workload keeps NVIDIA only, partitioned and AMD GPUs are labelled", async () => {
+  const { gpuOf } = await import("../src/gpus.js");
+  const g = indexCatalog({
+    regions: [{ name: "eastus", displayName: "East US" }],
+    skus: [
+      sku("Standard_NV4ads_V710_v5", 4, 16, { eastus: { l: 0.33 } }, { category: "GPU", gpus: 0 }),
+      sku("Standard_NV6ads_A10_v5", 6, 55, { eastus: { l: 0.45 } }, { category: "GPU", gpus: 1 }),
+      sku("Standard_NC4as_T4_v3", 4, 28, { eastus: { l: 0.526 } }, { category: "GPU", gpus: 1 }),
+    ],
+  });
+  assert.deepEqual(findSizes(g, { workload: "ai" }).results.map((x) => x.size), ["Standard_NV6ads_A10_v5", "Standard_NC4as_T4_v3"]);
+  assert.equal(findSizes(g, { workload: "gpu" }).results.length, 3);
+  assert.deepEqual(findSizes(g, { minGpus: 1 }).results.map((x) => x.size), ["Standard_NC4as_T4_v3"]);   // partitioned GPUs are not whole GPUs
+  assert.equal(gpuOf({ name: "Standard_NV6ads_A10_v5", gpus: 1 }).label, "1/6 × NVIDIA A10");
+  assert.equal(gpuOf({ name: "Standard_NV4ads_V710_v5", gpus: 0 }).cudaAiStack, false);
+  assert.equal(gpuOf({ name: "Standard_ND96is_MI300X_v5", gpus: 0 }).count, 8);
+  assert.equal(gpuOf({ name: "Standard_D4s_v5", gpus: 0 }), null);
+});

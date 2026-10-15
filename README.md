@@ -63,6 +63,7 @@ Then ask things like *"cheapest 8 vCPU / 32 GB VM in West Europe"* or *"compare 
 
 ## License
 
-Data: [CC BY 4.0](LICENSE). Please credit **cld2day.com** with a link to <https://cld2day.com/tools/azure-vm>. The MCP server code is MIT licensed.
+- **Data** (`data/`): [CC BY 4.0](LICENSE-DATA). Please credit **cld2day.com** with a link to <https://cld2day.com/tools/azure-vm>.
+- **Code** (`mcp/`): [MIT](LICENSE).
 
-Maintained by Vassilis Dionysopoulos, Principal Cloud Architect ([cld2day.com](https://cld2day.com), [cloudtales.gr](https://cloudtales.gr)).
+Maintained by [Vassilis Dionysopoulos](https://www.linkedin.com/in/vassilis-dionisopoulos), Principal Cloud Architect ([cld2day.com](https://cld2day.com), [cloudtales.gr](https://cloudtales.gr)).

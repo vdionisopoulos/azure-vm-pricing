@@ -9,9 +9,20 @@ Ask your assistant things like:
 - *"Compare D4s_v5 and D4as_v6 for 3 Windows VMs running business hours."*
 - *"Which Azure VM prices changed this week?"*
 
-Runs locally on your machine. No API key, no account. The data comes from the open [Azure VM pricing dataset](https://github.com/vdionisopoulos/azure-vm-pricing) and is cached for 24 hours.
+No API key, no account. Use the hosted server at `https://cld2day.com/mcp`, or run it locally with `npx`. The data comes from the open [Azure VM pricing dataset](https://github.com/vdionisopoulos/azure-vm-pricing) (Microsoft's Azure Retail Prices API and `az vm list-skus`, refreshed every Monday) and is cached for 24 hours. Every answer includes `dataSource.pricesAsOf`, so the assistant can tell you how fresh the prices are.
 
-## Install
+## Hosted server (no install)
+
+Add `https://cld2day.com/mcp` as a remote MCP server (Streamable HTTP, no sign-in):
+
+- **Claude** (web, desktop, mobile): *Customize → Connectors → Add custom connector*, paste the URL.
+- **ChatGPT**: turn on developer mode under *Settings → Apps & Connectors → Advanced settings*, then *Create* a connector with the URL and no authentication.
+- **VS Code**: `{ "servers": { "azure-vm-pricing": { "type": "http", "url": "https://cld2day.com/mcp" } } }` in `.vscode/mcp.json`
+- **Claude Code**: `claude mcp add --transport http azure-vm-pricing https://cld2day.com/mcp`
+
+Setup guide: https://cld2day.com/tools/azure-vm/mcp
+
+## Install locally
 
 Requires Node.js 18 or newer.
 
@@ -43,7 +54,7 @@ claude mcp add azure-vm-pricing -- npx -y azure-vm-pricing-mcp
 
 | Tool | What it does |
 |---|---|
-| `find_vm_sizes` | Cheapest sizes that meet minimum vCPU and memory, workload, region, OS, CPU architecture, temp disk or GPU requirements. Sort by price or closest fit. |
+| `find_vm_sizes` | Cheapest sizes that meet minimum vCPU and memory, workload, region, OS, CPU architecture, temp disk or GPU requirements. `workload: "ai"` returns NVIDIA (CUDA) GPUs only. Sort by price or closest fit. |
 | `get_vm_size` | Specs of one size and its hourly prices per region: Linux, Windows, 1/3-year reservations, 1/3-year savings plans. |
 | `estimate_vm_cost` | Monthly and yearly cost of up to 5 sizes for pay as you go, reservations and savings plans, with break-even hours per month. |
 | `get_price_changes` | Weekly report of new sizes, retired sizes and the biggest price moves. |

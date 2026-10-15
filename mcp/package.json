@@ -1,6 +1,7 @@
 {
   "name": "azure-vm-pricing-mcp",
-  "version": "0.1.0",
+  "mcpName": "io.github.vdionisopoulos/azure-vm-pricing",
+  "version": "0.1.4",
   "description": "MCP server for Azure VM sizes and prices: find the cheapest VM for your requirements, estimate monthly cost with reservations, compare sizes and regions. Weekly data from cld2day.com.",
   "type": "module",
   "bin": {
@@ -11,7 +12,8 @@
     "index.js",
     "src/",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "server.json"
   ],
   "scripts": {
     "start": "node index.js",

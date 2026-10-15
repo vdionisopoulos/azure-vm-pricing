@@ -1,0 +1,26 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.vdionisopoulos/azure-vm-pricing",
+  "description": "Azure VM sizes and USD list prices in 24 regions, updated weekly. Find, price and compare VMs.",
+  "repository": {
+    "url": "https://github.com/vdionisopoulos/azure-vm-pricing",
+    "source": "github"
+  },
+  "version": "0.1.4",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "azure-vm-pricing-mcp",
+      "version": "0.1.4",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cld2day.com/mcp"
+    }
+  ]
+}
