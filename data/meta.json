@@ -1,8 +1,8 @@
 {
-  "generatedUtc": "2026-10-15T15:23:27+00:00",
+  "generatedUtc": "2026-10-19T09:31:50+00:00",
   "currency": "USD",
-  "sizes": 1433,
+  "sizes": 1435,
   "regions": 24,
-  "rows": 30263,
+  "rows": 30301,
   "source": "https://cld2day.com/tools/azure-vm"
 }

@@ -27760,6 +27760,25 @@ Standard_M16ms,uksouth,UK South,Memory optimized,Mms,16,437.5,0,x64,512,3.872,5.
 Standard_M16ms,westeurope,West Europe,Memory optimized,Mms,16,437.5,0,x64,512,4.3022,5.443,2.474087,1.203615,2.968088,1.50534
 Standard_M16ms,westus2,West US 2,Memory optimized,Mms,16,437.5,0,x64,512,3.073,4.2138,1.767237,0.859703,2.120063,1.075243
 Standard_M16ms,westus3,West US 3,Memory optimized,Mms,16,437.5,0,x64,512,3.073,4.214,1.767237,0.859703,2.120063,1.075243
+Standard_M16s_v3,australiaeast,Australia East,Memory optimized,Msv3,16,256.0,0,x64,0,1.968,2.704,1.144635,0.552626,1.357723,0.688603
+Standard_M16s_v3,canadacentral,Canada Central,Memory optimized,Msv3,16,256.0,0,x64,0,1.804025,2.540025,1.049315,0.506583,1.244597,0.631228
+Standard_M16s_v3,centralindia,Central India,Memory optimized,Msv3,16,256.0,0,x64,0,1.682598,2.418598,0.978653,0.472489,1.160824,0.588741
+Standard_M16s_v3,centralus,Central US,Memory optimized,Msv3,16,256.0,0,x64,0,1.64,2.376,0.953881,0.46054,1.131436,0.573836
+Standard_M16s_v3,eastasia,East Asia,Memory optimized,Msv3,16,256.0,0,x64,0,2.535398,3.271398,1.474658,0.711948,1.749171,0.887136
+Standard_M16s_v3,eastus,East US,Memory optimized,Msv3,16,256.0,0,x64,0,1.64,2.376,0.953881,0.46054,1.131436,0.573836
+Standard_M16s_v3,eastus2,East US 2,Memory optimized,Msv3,16,256.0,0,x64,0,1.64,2.376,0.953881,0.46054,1.131436,0.573836
+Standard_M16s_v3,germanywestcentral,Germany West Central,Memory optimized,Msv3,16,256.0,0,x64,0,2.296,3.032,1.335388,0.644749,1.58401,0.80337
+Standard_M16s_v3,japaneast,Japan East,Memory optimized,Msv3,16,256.0,0,x64,0,2.378,3.114,1.383105,0.66777,1.640582,0.832062
+Standard_M16s_v3,koreacentral,Korea Central,Memory optimized,Msv3,16,256.0,0,x64,0,2.378,3.114,1.383105,0.66777,1.640582,0.832062
+Standard_M16s_v3,northeurope,North Europe,Memory optimized,Msv3,16,256.0,0,x64,0,1.967594,2.703594,1.144406,0.552511,1.357443,0.688461
+Standard_M16s_v3,southcentralus,South Central US,Memory optimized,Msv3,16,256.0,0,x64,0,1.968,2.704,1.144635,0.552626,1.357723,0.688603
+Standard_M16s_v3,southeastasia,Southeast Asia,Memory optimized,Msv3,16,256.0,0,x64,0,2.129871,2.865871,1.238813,0.598097,1.469398,0.745242
+Standard_M16s_v3,swedencentral,Sweden Central,Memory optimized,Msv3,16,256.0,0,x64,0,2.289611,3.025611,1.331735,0.64296,1.579603,0.801135
+Standard_M16s_v3,switzerlandnorth,Switzerland North,Memory optimized,Msv3,16,256.0,0,x64,0,2.523897,3.259897,1.467922,0.708714,1.741237,0.883112
+Standard_M16s_v3,uaenorth,UAE North,Memory optimized,Msv3,16,256.0,0,x64,0,2.161819,2.897819,1.25742,0.60704,1.491439,0.75642
+Standard_M16s_v3,uksouth,UK South,Memory optimized,Msv3,16,256.0,0,x64,0,2.065975,2.801975,1.201598,0.580137,1.425316,0.722885
+Standard_M16s_v3,westeurope,West Europe,Memory optimized,Msv3,16,256.0,0,x64,0,2.295187,3.031187,1.334932,0.644521,1.58345,0.803086
+Standard_M16s_v3,westus2,West US 2,Memory optimized,Msv3,16,256.0,0,x64,0,1.64,2.376,0.953881,0.46054,1.131436,0.573836
 Standard_M176-88bds_4_v3,australiaeast,Australia East,Memory optimized,Mbds4v3,176,3892.0,0,x64,8000,75.29627,83.39227,44.426256,26.354528,51.201464,31.624433
 Standard_M176-88bds_4_v3,brazilsouth,Brazil South,Memory optimized,Mbds4v3,176,3892.0,0,x64,8000,125.66,129.71,74.139384,43.981012,77.9092,52.7772
 Standard_M176-88bds_4_v3,canadacentral,Canada Central,Memory optimized,Mbds4v3,176,3892.0,0,x64,8000,75.396,83.492,44.485046,26.389422,51.26928,31.66632
@@ -28362,6 +28381,25 @@ Standard_M32ts,uksouth,UK South,Memory optimized,Mts,32,192.0,0,x64,1024,3.167,4
 Standard_M32ts,westeurope,West Europe,Memory optimized,Mts,32,192.0,0,x64,1024,3.248,4.72,1.868151,0.908828,2.240795,1.136475
 Standard_M32ts,westus2,West US 2,Memory optimized,Mts,32,192.0,0,x64,1024,2.707,4.179,1.556735,0.757344,1.867559,0.947179
 Standard_M32ts,westus3,West US 3,Memory optimized,Mts,32,192.0,0,x64,1024,2.707,4.179,1.556735,0.757344,1.867559,0.947179
+Standard_M32ts_v3,australiaeast,Australia East,Memory optimized,Mtsv3,32,512.0,0,x64,0,3.936,5.408,2.289269,1.105251,2.715446,1.377206
+Standard_M32ts_v3,canadacentral,Canada Central,Memory optimized,Mtsv3,32,512.0,0,x64,0,3.60805,5.08005,2.098516,1.013166,2.489194,1.262457
+Standard_M32ts_v3,centralindia,Central India,Memory optimized,Mtsv3,32,512.0,0,x64,0,3.365195,4.837195,1.957306,0.944977,2.321648,1.177482
+Standard_M32ts_v3,centralus,Central US,Memory optimized,Mtsv3,32,512.0,0,x64,0,3.28,4.752,1.907648,0.921043,2.262872,1.147672
+Standard_M32ts_v3,eastasia,East Asia,Memory optimized,Mtsv3,32,512.0,0,x64,0,5.070795,6.542795,2.949201,1.423896,3.498341,1.774271
+Standard_M32ts_v3,eastus,East US,Memory optimized,Mtsv3,32,512.0,0,x64,0,3.28,4.752,1.907648,0.921043,2.262872,1.147672
+Standard_M32ts_v3,eastus2,East US 2,Memory optimized,Mtsv3,32,512.0,0,x64,0,3.28,4.752,1.907648,0.921043,2.262872,1.147672
+Standard_M32ts_v3,germanywestcentral,Germany West Central,Memory optimized,Mtsv3,32,512.0,0,x64,0,4.592,6.064,2.670776,1.28946,3.168021,1.606741
+Standard_M32ts_v3,japaneast,Japan East,Memory optimized,Mtsv3,32,512.0,0,x64,0,4.756,6.228,2.766096,1.335502,3.281164,1.664124
+Standard_M32ts_v3,koreacentral,Korea Central,Memory optimized,Mtsv3,32,512.0,0,x64,0,4.756,6.228,2.766096,1.335502,3.281164,1.664124
+Standard_M32ts_v3,northeurope,North Europe,Memory optimized,Mtsv3,32,512.0,0,x64,0,3.935187,5.407187,2.288813,1.105023,2.714886,1.376922
+Standard_M32ts_v3,southcentralus,South Central US,Memory optimized,Mtsv3,32,512.0,0,x64,0,3.936,5.408,2.289269,1.105251,2.715446,1.377206
+Standard_M32ts_v3,southeastasia,Southeast Asia,Memory optimized,Mtsv3,32,512.0,0,x64,0,4.259741,5.731741,2.477511,1.196157,2.938795,1.490483
+Standard_M32ts_v3,swedencentral,Sweden Central,Memory optimized,Mtsv3,32,512.0,0,x64,0,4.579221,6.051221,2.663356,1.285883,3.159205,1.602269
+Standard_M32ts_v3,switzerlandnorth,Switzerland North,Memory optimized,Mtsv3,32,512.0,0,x64,0,5.047793,6.519793,2.935845,1.417428,3.482472,1.766223
+Standard_M32ts_v3,uaenorth,UAE North,Memory optimized,Mtsv3,32,512.0,0,x64,0,4.323637,5.795637,2.514726,1.214079,2.982877,1.512841
+Standard_M32ts_v3,uksouth,UK South,Memory optimized,Mtsv3,32,512.0,0,x64,0,4.131949,5.603949,2.403196,1.160274,2.850632,1.445769
+Standard_M32ts_v3,westeurope,West Europe,Memory optimized,Mtsv3,32,512.0,0,x64,0,4.590373,6.062373,2.669863,1.289003,3.166898,1.606172
+Standard_M32ts_v3,westus2,West US 2,Memory optimized,Mtsv3,32,512.0,0,x64,0,3.28,4.752,1.907648,0.921043,2.262872,1.147672
 Standard_M416-208ms_v2,australiaeast,Australia East,Memory optimized,Mmsv2,416,11400.0,0,x64,8192,143.77,162.9,83.613584,40.365183,99.186923,50.305123
 Standard_M416-208ms_v2,brazilsouth,Brazil South,Memory optimized,Mmsv2,416,11400.0,0,x64,8192,193.34,212.48,112.44589,54.284209,133.385266,67.649666
 Standard_M416-208ms_v2,canadacentral,Canada Central,Memory optimized,Mmsv2,416,11400.0,0,x64,8192,118.98,138.11,69.197374,33.408904,82.084302,41.631102
