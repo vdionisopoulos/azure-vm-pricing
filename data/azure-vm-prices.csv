@@ -24622,13 +24622,16 @@ Standard_FX12-6mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,12,252.
 Standard_FX12-6mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.806,2.358,1.029338,0.487595,1.24614,0.6321
 Standard_FX12-6mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.694,2.246,0.965525,0.457344,1.16886,0.5929
 Standard_FX12-6mds_v2,centralus,Central US,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.855,2.407,0.935502,0.443113,1.13155,0.573195
+Standard_FX12-6mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.544,3.096,1.460959,0.710236,1.755106,0.890146
 Standard_FX12-6mds_v2,eastus,East US,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.641,2.193,0.935502,0.443113,1.13229,0.57435
 Standard_FX12-6mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.641,2.193,0.935502,0.443113,1.13229,0.57435
 Standard_FX12-6mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.068,2.62,1.178995,0.558486,1.42692,0.7238
 Standard_FX12-6mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.298,2.85,1.310046,0.620586,1.58562,0.8043
+Standard_FX12-6mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.134,2.686,1.225342,0.5957,1.472247,0.746687
 Standard_FX12-6mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.381,2.933,1.356849,0.642732,1.64289,0.83335
 Standard_FX12-6mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.381,2.933,1.356849,0.642732,1.64289,0.83335
 Standard_FX12-6mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.97,2.522,1.122945,0.531925,1.3593,0.6895
+Standard_FX12-6mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.134,2.686,1.225342,0.5957,1.472247,0.746687
 Standard_FX12-6mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.969,2.521,1.122603,0.531735,1.49644,1.08295
 Standard_FX12-6mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.38,2.932,1.356507,0.642542,1.6422,0.833
 Standard_FX12-6mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.872,2.424,1.067123,0.505479,1.29168,0.6552
@@ -24643,13 +24646,16 @@ Standard_FX12-6ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,12,252.0,
 Standard_FX12-6ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.461,2.013,0.832877,0.394482,1.00809,0.51135
 Standard_FX12-6ms_v2,centralindia,Central India,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.37,1.922,0.781164,0.370015,0.9453,0.4795
 Standard_FX12-6ms_v2,centralus,Central US,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.501,2.053,0.756849,0.358524,0.914109,0.463809
+Standard_FX12-6ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,12,252.0,0,x64,0,2.058,2.61,1.182078,0.574658,1.419814,0.720094
 Standard_FX12-6ms_v2,eastus,East US,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.328,1.88,0.756849,0.358524,0.91632,0.4648
 Standard_FX12-6ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.328,1.88,0.756849,0.358524,0.91632,0.4648
 Standard_FX12-6ms_v2,francecentral,France Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.674,2.226,0.953995,0.451865,1.15506,0.5859
 Standard_FX12-6ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.86,2.412,1.060046,0.502093,1.2834,0.651
+Standard_FX12-6ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.726,2.278,0.991438,0.481963,1.190767,0.603927
 Standard_FX12-6ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.926,2.478,1.097831,0.520053,1.32894,0.6741
 Standard_FX12-6ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.926,2.478,1.097831,0.520053,1.32894,0.6741
 Standard_FX12-6ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.594,2.146,0.908562,0.430365,1.09986,0.5579
+Standard_FX12-6ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.726,2.278,0.991438,0.481963,1.190767,0.603927
 Standard_FX12-6ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.593,2.145,0.908333,0.430251,1.21068,0.87615
 Standard_FX12-6ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.926,2.478,1.097603,0.519901,1.32894,0.6741
 Standard_FX12-6ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.515,2.067,0.86347,0.40898,1.04535,0.53025
@@ -24680,13 +24686,16 @@ Standard_FX12mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,12,252.0,
 Standard_FX12mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.806,2.358,1.029338,0.487595,1.24614,0.6321
 Standard_FX12mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.694,2.246,0.965525,0.457344,1.16886,0.5929
 Standard_FX12mds_v2,centralus,Central US,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.855,2.407,0.935502,0.443113,1.13155,0.573195
+Standard_FX12mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.544,3.096,1.460959,0.710236,1.755106,0.890146
 Standard_FX12mds_v2,eastus,East US,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.641,2.193,0.935502,0.443113,1.13229,0.57435
 Standard_FX12mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.641,2.193,0.935502,0.443113,1.13229,0.57435
 Standard_FX12mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.068,2.62,1.178995,0.558486,1.42692,0.7238
 Standard_FX12mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.298,2.85,1.310046,0.620586,1.58562,0.8043
+Standard_FX12mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.134,2.686,1.225342,0.5957,1.472247,0.746687
 Standard_FX12mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.381,2.933,1.356849,0.642732,1.64289,0.83335
 Standard_FX12mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.381,2.933,1.356849,0.642732,1.64289,0.83335
 Standard_FX12mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.97,2.522,1.122945,0.531925,1.3593,0.6895
+Standard_FX12mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.134,2.686,1.225342,0.5957,1.472247,0.746687
 Standard_FX12mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.969,2.521,1.122603,0.531735,1.49644,1.08295
 Standard_FX12mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,12,252.0,0,x64,880,2.38,2.932,1.356507,0.642542,1.6422,0.833
 Standard_FX12mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,12,252.0,0,x64,880,1.872,2.424,1.067123,0.505479,1.29168,0.6552
@@ -24701,13 +24710,16 @@ Standard_FX12ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,12,252.0,0,
 Standard_FX12ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.461,2.013,0.832877,0.394482,1.00809,0.51135
 Standard_FX12ms_v2,centralindia,Central India,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.37,1.922,0.781164,0.370015,0.9453,0.4795
 Standard_FX12ms_v2,centralus,Central US,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.501,2.053,0.756849,0.358524,0.914109,0.463809
+Standard_FX12ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,12,252.0,0,x64,0,2.058,2.61,1.182078,0.574658,1.419814,0.720094
 Standard_FX12ms_v2,eastus,East US,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.328,1.88,0.756849,0.358524,0.91632,0.4648
 Standard_FX12ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.328,1.88,0.756849,0.358524,0.91632,0.4648
 Standard_FX12ms_v2,francecentral,France Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.674,2.226,0.953995,0.451865,1.15506,0.5859
 Standard_FX12ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.86,2.412,1.060046,0.502093,1.2834,0.651
+Standard_FX12ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.726,2.278,0.991438,0.481963,1.190767,0.603927
 Standard_FX12ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.926,2.478,1.097831,0.520053,1.32894,0.6741
 Standard_FX12ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.926,2.478,1.097831,0.520053,1.32894,0.6741
 Standard_FX12ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.594,2.146,0.908562,0.430365,1.09986,0.5579
+Standard_FX12ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.726,2.278,0.991438,0.481963,1.190767,0.603927
 Standard_FX12ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.593,2.145,0.908333,0.430251,1.21068,0.87615
 Standard_FX12ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.926,2.478,1.097603,0.519901,1.32894,0.6741
 Standard_FX12ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,12,252.0,0,x64,0,1.515,2.067,0.86347,0.40898,1.04535,0.53025
@@ -24722,13 +24734,16 @@ Standard_FX16-4mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,16,336.
 Standard_FX16-4mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.408,3.144,1.372489,0.650114,1.66152,0.8428
 Standard_FX16-4mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.258,2.994,1.287329,0.609779,1.55802,0.7903
 Standard_FX16-4mds_v2,centralus,Central US,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.473,3.209,1.24726,0.59083,1.50853,0.764157
+Standard_FX16-4mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.392,4.128,1.947945,0.946994,2.340141,1.186861
 Standard_FX16-4mds_v2,eastus,East US,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.188,2.924,1.24726,0.59083,1.50972,0.7658
 Standard_FX16-4mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.188,2.924,1.24726,0.59083,1.50972,0.7658
 Standard_FX16-4mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.758,3.494,1.572032,0.744673,1.90302,0.9653
 Standard_FX16-4mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.065,3.801,1.746804,0.827435,2.11485,1.07275
+Standard_FX16-4mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.845,3.581,1.63379,0.794254,1.962765,0.995466
 Standard_FX16-4mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.174,3.91,1.809132,0.856963,2.19006,1.1109
 Standard_FX16-4mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.174,3.91,1.809132,0.856963,2.19006,1.1109
 Standard_FX16-4mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.627,3.363,1.49726,0.709209,1.81263,0.91945
+Standard_FX16-4mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.845,3.581,1.63379,0.794254,1.962765,0.995466
 Standard_FX16-4mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.626,3.362,1.496804,0.70898,1.99576,1.4443
 Standard_FX16-4mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.173,3.909,1.808676,0.856735,2.18937,1.11055
 Standard_FX16-4mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.496,3.232,1.422831,0.673973,1.72224,0.8736
@@ -24743,13 +24758,16 @@ Standard_FX16-4ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,16,336.0,
 Standard_FX16-4ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.948,2.684,1.110388,0.525989,1.34412,0.6818
 Standard_FX16-4ms_v2,centralindia,Central India,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.827,2.563,1.041553,0.493379,1.26063,0.63945
 Standard_FX16-4ms_v2,centralus,Central US,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.001,2.737,1.009247,0.478044,1.218609,0.618309
+Standard_FX16-4ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.744,3.48,1.576027,0.76621,1.893086,0.960126
 Standard_FX16-4ms_v2,eastus,East US,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.771,2.507,1.009247,0.478044,1.22199,0.61985
 Standard_FX16-4ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.771,2.507,1.009247,0.478044,1.22199,0.61985
 Standard_FX16-4ms_v2,francecentral,France Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.231,2.967,1.271918,0.602511,1.53939,0.78085
 Standard_FX16-4ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.48,3.216,1.413356,0.669482,1.7112,0.868
+Standard_FX16-4ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.302,3.038,1.321804,0.642618,1.58815,0.80547
 Standard_FX16-4ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.568,3.304,1.463813,0.693379,1.77192,0.8988
 Standard_FX16-4ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.568,3.304,1.463813,0.693379,1.77192,0.8988
 Standard_FX16-4ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.125,2.861,1.211416,0.57382,1.46625,0.74375
+Standard_FX16-4ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.302,3.038,1.321804,0.642618,1.58815,0.80547
 Standard_FX16-4ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.125,2.861,1.211073,0.573668,1.615,1.16875
 Standard_FX16-4ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.567,3.303,1.46347,0.693189,1.77123,0.89845
 Standard_FX16-4ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.02,2.756,1.151256,0.54532,1.3938,0.707
@@ -24764,13 +24782,16 @@ Standard_FX16-8mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,16,336.
 Standard_FX16-8mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.408,3.144,1.372489,0.650114,1.66152,0.8428
 Standard_FX16-8mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.258,2.994,1.287329,0.609779,1.55802,0.7903
 Standard_FX16-8mds_v2,centralus,Central US,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.473,3.209,1.24726,0.59083,1.50853,0.764157
+Standard_FX16-8mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.392,4.128,1.947945,0.946994,2.340141,1.186861
 Standard_FX16-8mds_v2,eastus,East US,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.188,2.924,1.24726,0.59083,1.50972,0.7658
 Standard_FX16-8mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.188,2.924,1.24726,0.59083,1.50972,0.7658
 Standard_FX16-8mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.758,3.494,1.572032,0.744673,1.90302,0.9653
 Standard_FX16-8mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.065,3.801,1.746804,0.827435,2.11485,1.07275
+Standard_FX16-8mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.845,3.581,1.63379,0.794254,1.962765,0.995466
 Standard_FX16-8mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.174,3.91,1.809132,0.856963,2.19006,1.1109
 Standard_FX16-8mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.174,3.91,1.809132,0.856963,2.19006,1.1109
 Standard_FX16-8mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.627,3.363,1.49726,0.709209,1.81263,0.91945
+Standard_FX16-8mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.845,3.581,1.63379,0.794254,1.962765,0.995466
 Standard_FX16-8mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.626,3.362,1.496804,0.70898,1.99576,1.4443
 Standard_FX16-8mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.173,3.909,1.808676,0.856735,2.18937,1.11055
 Standard_FX16-8mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.496,3.232,1.422831,0.673973,1.72224,0.8736
@@ -24785,13 +24806,16 @@ Standard_FX16-8ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,16,336.0,
 Standard_FX16-8ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.948,2.684,1.110388,0.525989,1.34412,0.6818
 Standard_FX16-8ms_v2,centralindia,Central India,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.827,2.563,1.041553,0.493379,1.26063,0.63945
 Standard_FX16-8ms_v2,centralus,Central US,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.001,2.737,1.009247,0.478044,1.218609,0.618309
+Standard_FX16-8ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.744,3.48,1.576027,0.76621,1.893086,0.960126
 Standard_FX16-8ms_v2,eastus,East US,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.771,2.507,1.009247,0.478044,1.22199,0.61985
 Standard_FX16-8ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.771,2.507,1.009247,0.478044,1.22199,0.61985
 Standard_FX16-8ms_v2,francecentral,France Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.231,2.967,1.271918,0.602511,1.53939,0.78085
 Standard_FX16-8ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.48,3.216,1.413356,0.669482,1.7112,0.868
+Standard_FX16-8ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.302,3.038,1.321804,0.642618,1.58815,0.80547
 Standard_FX16-8ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.568,3.304,1.463813,0.693379,1.77192,0.8988
 Standard_FX16-8ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.568,3.304,1.463813,0.693379,1.77192,0.8988
 Standard_FX16-8ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.125,2.861,1.211416,0.57382,1.46625,0.74375
+Standard_FX16-8ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.302,3.038,1.321804,0.642618,1.58815,0.80547
 Standard_FX16-8ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.125,2.861,1.211073,0.573668,1.615,1.16875
 Standard_FX16-8ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.567,3.303,1.46347,0.693189,1.77123,0.89845
 Standard_FX16-8ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.02,2.756,1.151256,0.54532,1.3938,0.707
@@ -24806,13 +24830,16 @@ Standard_FX16mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,16,336.0,
 Standard_FX16mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.408,3.144,1.372489,0.650114,1.66152,0.8428
 Standard_FX16mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.258,2.994,1.287329,0.609779,1.55802,0.7903
 Standard_FX16mds_v2,centralus,Central US,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.473,3.209,1.24726,0.59083,1.50853,0.764157
+Standard_FX16mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.392,4.128,1.947945,0.946994,2.340141,1.186861
 Standard_FX16mds_v2,eastus,East US,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.188,2.924,1.24726,0.59083,1.50972,0.7658
 Standard_FX16mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.188,2.924,1.24726,0.59083,1.50972,0.7658
 Standard_FX16mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.758,3.494,1.572032,0.744673,1.90302,0.9653
 Standard_FX16mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.065,3.801,1.746804,0.827435,2.11485,1.07275
+Standard_FX16mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.845,3.581,1.63379,0.794254,1.962765,0.995466
 Standard_FX16mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.174,3.91,1.809132,0.856963,2.19006,1.1109
 Standard_FX16mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.174,3.91,1.809132,0.856963,2.19006,1.1109
 Standard_FX16mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.627,3.363,1.49726,0.709209,1.81263,0.91945
+Standard_FX16mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.845,3.581,1.63379,0.794254,1.962765,0.995466
 Standard_FX16mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.626,3.362,1.496804,0.70898,1.99576,1.4443
 Standard_FX16mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,16,336.0,0,x64,880,3.173,3.909,1.808676,0.856735,2.18937,1.11055
 Standard_FX16mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,16,336.0,0,x64,880,2.496,3.232,1.422831,0.673973,1.72224,0.8736
@@ -24827,13 +24854,16 @@ Standard_FX16ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,16,336.0,0,
 Standard_FX16ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.948,2.684,1.110388,0.525989,1.34412,0.6818
 Standard_FX16ms_v2,centralindia,Central India,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.827,2.563,1.041553,0.493379,1.26063,0.63945
 Standard_FX16ms_v2,centralus,Central US,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.001,2.737,1.009247,0.478044,1.218609,0.618309
+Standard_FX16ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.744,3.48,1.576027,0.76621,1.893086,0.960126
 Standard_FX16ms_v2,eastus,East US,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.771,2.507,1.009247,0.478044,1.22199,0.61985
 Standard_FX16ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,16,336.0,0,x64,0,1.771,2.507,1.009247,0.478044,1.22199,0.61985
 Standard_FX16ms_v2,francecentral,France Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.231,2.967,1.271918,0.602511,1.53939,0.78085
 Standard_FX16ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.48,3.216,1.413356,0.669482,1.7112,0.868
+Standard_FX16ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.302,3.038,1.321804,0.642618,1.58815,0.80547
 Standard_FX16ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.568,3.304,1.463813,0.693379,1.77192,0.8988
 Standard_FX16ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.568,3.304,1.463813,0.693379,1.77192,0.8988
 Standard_FX16ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.125,2.861,1.211416,0.57382,1.46625,0.74375
+Standard_FX16ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.302,3.038,1.321804,0.642618,1.58815,0.80547
 Standard_FX16ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.125,2.861,1.211073,0.573668,1.615,1.16875
 Standard_FX16ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.567,3.303,1.46347,0.693189,1.77123,0.89845
 Standard_FX16ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,16,336.0,0,x64,0,2.02,2.756,1.151256,0.54532,1.3938,0.707
@@ -24848,13 +24878,16 @@ Standard_FX24-12mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,24,504
 Standard_FX24-12mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.612,4.716,2.058676,0.975152,2.49228,1.2642
 Standard_FX24-12mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.388,4.492,1.930936,0.914688,2.33772,1.1858
 Standard_FX24-12mds_v2,centralus,Central US,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.709,4.813,1.871005,0.886263,2.26249,1.146081
+Standard_FX24-12mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,5.088,6.192,2.921918,1.42051,3.510211,1.780291
 Standard_FX24-12mds_v2,eastus,East US,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.282,4.386,1.871005,0.886263,2.26458,1.1487
 Standard_FX24-12mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.282,4.386,1.871005,0.886263,2.26458,1.1487
 Standard_FX24-12mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.137,5.241,2.358105,1.116971,2.85453,1.44795
 Standard_FX24-12mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.597,5.701,2.620205,1.241134,3.17193,1.60895
+Standard_FX24-12mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.267,5.371,2.450571,1.1914,2.943803,1.493023
 Standard_FX24-12mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.761,5.865,2.713813,1.285464,3.28509,1.66635
 Standard_FX24-12mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.761,5.865,2.713813,1.285464,3.28509,1.66635
 Standard_FX24-12mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.94,5.044,2.245776,1.063813,2.7186,1.379
+Standard_FX24-12mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.267,5.371,2.450571,1.1914,2.943803,1.493023
 Standard_FX24-12mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.939,5.043,2.245205,1.063508,2.99364,2.16645
 Standard_FX24-12mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.76,5.864,2.713014,1.285122,3.2844,1.666
 Standard_FX24-12mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.744,4.848,2.134247,1.010959,2.58336,1.3104
@@ -24869,13 +24902,16 @@ Standard_FX24-12ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,24,504.0
 Standard_FX24-12ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.922,4.026,1.665639,0.789003,2.01618,1.0227
 Standard_FX24-12ms_v2,centralindia,Central India,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.741,3.845,1.562329,0.740068,1.89129,0.95935
 Standard_FX24-12ms_v2,centralus,Central US,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.001,4.105,1.513813,0.717047,1.827609,0.927309
+Standard_FX24-12ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,24,504.0,0,x64,0,4.116,5.22,2.364041,1.149315,2.839628,1.440188
 Standard_FX24-12ms_v2,eastus,East US,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.656,3.76,1.513813,0.717047,1.83264,0.9296
 Standard_FX24-12ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.656,3.76,1.513813,0.717047,1.83264,0.9296
 Standard_FX24-12ms_v2,francecentral,France Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.347,4.451,1.907877,0.903767,2.30943,1.17145
 Standard_FX24-12ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.719,4.823,2.119977,1.004224,2.56611,1.30165
+Standard_FX24-12ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.453,4.557,1.982763,0.963927,2.382225,1.208205
 Standard_FX24-12ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.852,4.956,2.195776,1.040068,2.65788,1.3482
 Standard_FX24-12ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.852,4.956,2.195776,1.040068,2.65788,1.3482
 Standard_FX24-12ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.188,4.292,1.817123,0.860731,2.19972,1.1158
+Standard_FX24-12ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.453,4.557,1.982763,0.963927,2.382225,1.208205
 Standard_FX24-12ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.187,4.291,1.816553,0.860464,2.42212,1.75285
 Standard_FX24-12ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.851,4.955,2.195091,1.039802,2.65719,1.34785
 Standard_FX24-12ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.03,4.134,1.726826,0.817998,2.0907,1.0605
@@ -24890,13 +24926,16 @@ Standard_FX24-6mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,24,504.
 Standard_FX24-6mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.612,4.716,2.058676,0.975152,2.49228,1.2642
 Standard_FX24-6mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.388,4.492,1.930936,0.914688,2.33772,1.1858
 Standard_FX24-6mds_v2,centralus,Central US,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.709,4.813,1.871005,0.886263,2.26249,1.146081
+Standard_FX24-6mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,5.088,6.192,2.921918,1.42051,3.510211,1.780291
 Standard_FX24-6mds_v2,eastus,East US,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.282,4.386,1.871005,0.886263,2.26458,1.1487
 Standard_FX24-6mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.282,4.386,1.871005,0.886263,2.26458,1.1487
 Standard_FX24-6mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.137,5.241,2.358105,1.116971,2.85453,1.44795
 Standard_FX24-6mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.597,5.701,2.620205,1.241134,3.17193,1.60895
+Standard_FX24-6mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.267,5.371,2.450571,1.1914,2.943803,1.493023
 Standard_FX24-6mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.761,5.865,2.713813,1.285464,3.28509,1.66635
 Standard_FX24-6mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.761,5.865,2.713813,1.285464,3.28509,1.66635
 Standard_FX24-6mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.94,5.044,2.245776,1.063813,2.7186,1.379
+Standard_FX24-6mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.267,5.371,2.450571,1.1914,2.943803,1.493023
 Standard_FX24-6mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.939,5.043,2.245205,1.063508,2.99364,2.16645
 Standard_FX24-6mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.76,5.864,2.713014,1.285122,3.2844,1.666
 Standard_FX24-6mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.744,4.848,2.134247,1.010959,2.58336,1.3104
@@ -24911,13 +24950,16 @@ Standard_FX24-6ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,24,504.0,
 Standard_FX24-6ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.922,4.026,1.665639,0.789003,2.01618,1.0227
 Standard_FX24-6ms_v2,centralindia,Central India,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.741,3.845,1.562329,0.740068,1.89129,0.95935
 Standard_FX24-6ms_v2,centralus,Central US,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.001,4.105,1.513813,0.717047,1.827609,0.927309
+Standard_FX24-6ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,24,504.0,0,x64,0,4.116,5.22,2.364041,1.149315,2.839628,1.440188
 Standard_FX24-6ms_v2,eastus,East US,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.656,3.76,1.513813,0.717047,1.83264,0.9296
 Standard_FX24-6ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.656,3.76,1.513813,0.717047,1.83264,0.9296
 Standard_FX24-6ms_v2,francecentral,France Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.347,4.451,1.907877,0.903767,2.30943,1.17145
 Standard_FX24-6ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.719,4.823,2.119977,1.004224,2.56611,1.30165
+Standard_FX24-6ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.453,4.557,1.982763,0.963927,2.382225,1.208205
 Standard_FX24-6ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.852,4.956,2.195776,1.040068,2.65788,1.3482
 Standard_FX24-6ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.852,4.956,2.195776,1.040068,2.65788,1.3482
 Standard_FX24-6ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.188,4.292,1.817123,0.860731,2.19972,1.1158
+Standard_FX24-6ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.453,4.557,1.982763,0.963927,2.382225,1.208205
 Standard_FX24-6ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.187,4.291,1.816553,0.860464,2.42212,1.75285
 Standard_FX24-6ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.851,4.955,2.195091,1.039802,2.65719,1.34785
 Standard_FX24-6ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.03,4.134,1.726826,0.817998,2.0907,1.0605
@@ -24948,13 +24990,16 @@ Standard_FX24mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,24,504.0,
 Standard_FX24mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.612,4.716,2.058676,0.975152,2.49228,1.2642
 Standard_FX24mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.388,4.492,1.930936,0.914688,2.33772,1.1858
 Standard_FX24mds_v2,centralus,Central US,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.709,4.813,1.871005,0.886263,2.26249,1.146081
+Standard_FX24mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,5.088,6.192,2.921918,1.42051,3.510211,1.780291
 Standard_FX24mds_v2,eastus,East US,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.282,4.386,1.871005,0.886263,2.26458,1.1487
 Standard_FX24mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.282,4.386,1.871005,0.886263,2.26458,1.1487
 Standard_FX24mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.137,5.241,2.358105,1.116971,2.85453,1.44795
 Standard_FX24mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.597,5.701,2.620205,1.241134,3.17193,1.60895
+Standard_FX24mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.267,5.371,2.450571,1.1914,2.943803,1.493023
 Standard_FX24mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.761,5.865,2.713813,1.285464,3.28509,1.66635
 Standard_FX24mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.761,5.865,2.713813,1.285464,3.28509,1.66635
 Standard_FX24mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.94,5.044,2.245776,1.063813,2.7186,1.379
+Standard_FX24mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.267,5.371,2.450571,1.1914,2.943803,1.493023
 Standard_FX24mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.939,5.043,2.245205,1.063508,2.99364,2.16645
 Standard_FX24mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,4.76,5.864,2.713014,1.285122,3.2844,1.666
 Standard_FX24mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,24,504.0,0,x64,1320,3.744,4.848,2.134247,1.010959,2.58336,1.3104
@@ -24969,13 +25014,16 @@ Standard_FX24ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,24,504.0,0,
 Standard_FX24ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.922,4.026,1.665639,0.789003,2.01618,1.0227
 Standard_FX24ms_v2,centralindia,Central India,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.741,3.845,1.562329,0.740068,1.89129,0.95935
 Standard_FX24ms_v2,centralus,Central US,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.001,4.105,1.513813,0.717047,1.827609,0.927309
+Standard_FX24ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,24,504.0,0,x64,0,4.116,5.22,2.364041,1.149315,2.839628,1.440188
 Standard_FX24ms_v2,eastus,East US,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.656,3.76,1.513813,0.717047,1.83264,0.9296
 Standard_FX24ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,24,504.0,0,x64,0,2.656,3.76,1.513813,0.717047,1.83264,0.9296
 Standard_FX24ms_v2,francecentral,France Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.347,4.451,1.907877,0.903767,2.30943,1.17145
 Standard_FX24ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.719,4.823,2.119977,1.004224,2.56611,1.30165
+Standard_FX24ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.453,4.557,1.982763,0.963927,2.382225,1.208205
 Standard_FX24ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.852,4.956,2.195776,1.040068,2.65788,1.3482
 Standard_FX24ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.852,4.956,2.195776,1.040068,2.65788,1.3482
 Standard_FX24ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.188,4.292,1.817123,0.860731,2.19972,1.1158
+Standard_FX24ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.453,4.557,1.982763,0.963927,2.382225,1.208205
 Standard_FX24ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.187,4.291,1.816553,0.860464,2.42212,1.75285
 Standard_FX24ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.851,4.955,2.195091,1.039802,2.65719,1.34785
 Standard_FX24ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,24,504.0,0,x64,0,3.03,4.134,1.726826,0.817998,2.0907,1.0605
@@ -24990,13 +25038,16 @@ Standard_FX2mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,2,42.0,0,x
 Standard_FX2mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.301,0.393,0.171575,0.081279,0.20769,0.10535
 Standard_FX2mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.282,0.374,0.160959,0.076218,0.19458,0.0987
 Standard_FX2mds_v2,centralus,Central US,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.309,0.401,0.155936,0.073858,0.18849,0.095481
+Standard_FX2mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.424,0.516,0.243493,0.118379,0.292518,0.148358
 Standard_FX2mds_v2,eastus,East US,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.274,0.366,0.155936,0.073858,0.18906,0.0959
 Standard_FX2mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.274,0.366,0.155936,0.073858,0.18906,0.0959
 Standard_FX2mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.345,0.437,0.196461,0.093075,0.23805,0.12075
 Standard_FX2mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.383,0.475,0.218379,0.103425,0.26427,0.13405
+Standard_FX2mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.356,0.448,0.204224,0.099277,0.245604,0.124564
 Standard_FX2mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.397,0.489,0.226142,0.107116,0.27393,0.13895
 Standard_FX2mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.397,0.489,0.226142,0.107116,0.27393,0.13895
 Standard_FX2mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.328,0.42,0.1871,0.088661,0.22632,0.1148
+Standard_FX2mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.356,0.448,0.204224,0.099277,0.245604,0.124564
 Standard_FX2mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.328,0.42,0.1871,0.088623,0.24928,0.1804
 Standard_FX2mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.397,0.489,0.226142,0.107078,0.27393,0.13895
 Standard_FX2mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,2,42.0,0,x64,110,0.312,0.404,0.177854,0.084247,0.21528,0.1092
@@ -25011,13 +25062,16 @@ Standard_FX2ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,2,42.0,0,x64
 Standard_FX2ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.244,0.336,0.138813,0.065753,0.16836,0.0854
 Standard_FX2ms_v2,centralindia,Central India,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.228,0.32,0.130251,0.061682,0.15732,0.0798
 Standard_FX2ms_v2,centralus,Central US,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.25,0.342,0.126142,0.059741,0.15225,0.07725
+Standard_FX2ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.343,0.435,0.197032,0.095776,0.236636,0.120016
 Standard_FX2ms_v2,eastus,East US,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.221,0.313,0.126142,0.059741,0.15249,0.07735
 Standard_FX2ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.221,0.313,0.126142,0.059741,0.15249,0.07735
 Standard_FX2ms_v2,francecentral,France Central,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.279,0.371,0.159018,0.075304,0.19251,0.09765
 Standard_FX2ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.31,0.402,0.176712,0.083676,0.2139,0.1085
+Standard_FX2ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.288,0.38,0.165183,0.080327,0.198691,0.100771
 Standard_FX2ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.321,0.413,0.182991,0.086682,0.22149,0.11235
 Standard_FX2ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.321,0.413,0.182991,0.086682,0.22149,0.11235
 Standard_FX2ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.266,0.358,0.15137,0.071728,0.18354,0.0931
+Standard_FX2ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.288,0.38,0.165183,0.080327,0.198691,0.100771
 Standard_FX2ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.266,0.358,0.15137,0.071689,0.20216,0.1463
 Standard_FX2ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.321,0.413,0.182877,0.086644,0.22149,0.11235
 Standard_FX2ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,2,42.0,0,x64,0,0.252,0.344,0.14395,0.068151,0.17388,0.0882
@@ -25032,13 +25086,16 @@ Standard_FX32-16mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,32,672
 Standard_FX32-16mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.816,6.288,2.744863,1.30019,3.32304,1.6856
 Standard_FX32-16mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.517,5.989,2.574658,1.219559,3.11673,1.58095
 Standard_FX32-16mds_v2,centralus,Central US,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.946,6.418,2.494635,1.181659,3.01706,1.528314
+Standard_FX32-16mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.784,8.256,3.89589,1.893988,4.680282,2.373722
 Standard_FX32-16mds_v2,eastus,East US,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.377,5.849,2.494635,1.181659,3.02013,1.53195
 Standard_FX32-16mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.377,5.849,2.494635,1.181659,3.02013,1.53195
 Standard_FX32-16mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.516,6.988,3.144064,1.489307,3.80604,1.9306
 Standard_FX32-16mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.129,7.601,3.493607,1.654871,4.22901,2.14515
+Standard_FX32-16mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.69,7.162,3.267466,1.588508,3.925531,1.990931
 Standard_FX32-16mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.348,7.82,3.618379,1.713965,4.38012,2.2218
 Standard_FX32-16mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.348,7.82,3.618379,1.713965,4.38012,2.2218
 Standard_FX32-16mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.253,6.725,2.994406,1.418417,3.62457,1.83855
+Standard_FX32-16mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.69,7.162,3.267466,1.588508,3.925531,1.990931
 Standard_FX32-16mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.252,6.724,2.993493,1.417998,3.99152,2.8886
 Standard_FX32-16mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.346,7.818,3.617352,1.713508,4.37874,2.2211
 Standard_FX32-16mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.992,6.464,2.845662,1.347983,3.44448,1.7472
@@ -25053,13 +25110,16 @@ Standard_FX32-16ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,32,672.0
 Standard_FX32-16ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.896,5.368,2.22089,1.052017,2.68824,1.3636
 Standard_FX32-16ms_v2,centralindia,Central India,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.655,5.127,2.083105,0.986758,2.52195,1.27925
 Standard_FX32-16ms_v2,centralus,Central US,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.001,5.473,2.018379,0.956088,2.436609,1.236309
+Standard_FX32-16ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.489,6.961,3.152169,1.53242,3.786861,1.920601
 Standard_FX32-16ms_v2,eastus,East US,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.541,5.013,2.018379,0.956088,2.44329,1.23935
 Standard_FX32-16ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.541,5.013,2.018379,0.956088,2.44329,1.23935
 Standard_FX32-16ms_v2,francecentral,France Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.463,5.935,2.54395,1.204985,3.07947,1.56205
 Standard_FX32-16ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.959,6.431,2.826598,1.338927,3.42171,1.73565
+Standard_FX32-16ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.603,6.075,2.643721,1.285274,3.17561,1.61059
 Standard_FX32-16ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.136,6.608,2.927626,1.386758,3.54384,1.7976
 Standard_FX32-16ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.136,6.608,2.927626,1.386758,3.54384,1.7976
 Standard_FX32-16ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.251,5.723,2.422831,1.147641,2.93319,1.48785
+Standard_FX32-16ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.603,6.075,2.643721,1.285274,3.17561,1.61059
 Standard_FX32-16ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.249,5.721,2.422146,1.147298,3.22924,2.33695
 Standard_FX32-16ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.135,6.607,2.926826,1.386377,3.54315,1.79725
 Standard_FX32-16ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.039,5.511,2.302511,1.090639,2.78691,1.41365
@@ -25074,13 +25134,16 @@ Standard_FX32-8mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,32,672.
 Standard_FX32-8mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.816,6.288,2.744863,1.30019,3.32304,1.6856
 Standard_FX32-8mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.517,5.989,2.574658,1.219559,3.11673,1.58095
 Standard_FX32-8mds_v2,centralus,Central US,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.946,6.418,2.494635,1.181659,3.01706,1.528314
+Standard_FX32-8mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.784,8.256,3.89589,1.893988,4.680282,2.373722
 Standard_FX32-8mds_v2,eastus,East US,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.377,5.849,2.494635,1.181659,3.02013,1.53195
 Standard_FX32-8mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.377,5.849,2.494635,1.181659,3.02013,1.53195
 Standard_FX32-8mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.516,6.988,3.144064,1.489307,3.80604,1.9306
 Standard_FX32-8mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.129,7.601,3.493607,1.654871,4.22901,2.14515
+Standard_FX32-8mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.69,7.162,3.267466,1.588508,3.925531,1.990931
 Standard_FX32-8mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.348,7.82,3.618379,1.713965,4.38012,2.2218
 Standard_FX32-8mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.348,7.82,3.618379,1.713965,4.38012,2.2218
 Standard_FX32-8mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.253,6.725,2.994406,1.418417,3.62457,1.83855
+Standard_FX32-8mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.69,7.162,3.267466,1.588508,3.925531,1.990931
 Standard_FX32-8mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.252,6.724,2.993493,1.417998,3.99152,2.8886
 Standard_FX32-8mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.346,7.818,3.617352,1.713508,4.37874,2.2211
 Standard_FX32-8mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.992,6.464,2.845662,1.347983,3.44448,1.7472
@@ -25095,13 +25158,16 @@ Standard_FX32-8ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,32,672.0,
 Standard_FX32-8ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.896,5.368,2.22089,1.052017,2.68824,1.3636
 Standard_FX32-8ms_v2,centralindia,Central India,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.655,5.127,2.083105,0.986758,2.52195,1.27925
 Standard_FX32-8ms_v2,centralus,Central US,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.001,5.473,2.018379,0.956088,2.436609,1.236309
+Standard_FX32-8ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.489,6.961,3.152169,1.53242,3.786861,1.920601
 Standard_FX32-8ms_v2,eastus,East US,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.541,5.013,2.018379,0.956088,2.44329,1.23935
 Standard_FX32-8ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.541,5.013,2.018379,0.956088,2.44329,1.23935
 Standard_FX32-8ms_v2,francecentral,France Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.463,5.935,2.54395,1.204985,3.07947,1.56205
 Standard_FX32-8ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.959,6.431,2.826598,1.338927,3.42171,1.73565
+Standard_FX32-8ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.603,6.075,2.643721,1.285274,3.17561,1.61059
 Standard_FX32-8ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.136,6.608,2.927626,1.386758,3.54384,1.7976
 Standard_FX32-8ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.136,6.608,2.927626,1.386758,3.54384,1.7976
 Standard_FX32-8ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.251,5.723,2.422831,1.147641,2.93319,1.48785
+Standard_FX32-8ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.603,6.075,2.643721,1.285274,3.17561,1.61059
 Standard_FX32-8ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.249,5.721,2.422146,1.147298,3.22924,2.33695
 Standard_FX32-8ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.135,6.607,2.926826,1.386377,3.54315,1.79725
 Standard_FX32-8ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.039,5.511,2.302511,1.090639,2.78691,1.41365
@@ -25116,13 +25182,16 @@ Standard_FX32mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,32,672.0,
 Standard_FX32mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.816,6.288,2.744863,1.30019,3.32304,1.6856
 Standard_FX32mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.517,5.989,2.574658,1.219559,3.11673,1.58095
 Standard_FX32mds_v2,centralus,Central US,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.946,6.418,2.494635,1.181659,3.01706,1.528314
+Standard_FX32mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.784,8.256,3.89589,1.893988,4.680282,2.373722
 Standard_FX32mds_v2,eastus,East US,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.377,5.849,2.494635,1.181659,3.02013,1.53195
 Standard_FX32mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.377,5.849,2.494635,1.181659,3.02013,1.53195
 Standard_FX32mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.516,6.988,3.144064,1.489307,3.80604,1.9306
 Standard_FX32mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.129,7.601,3.493607,1.654871,4.22901,2.14515
+Standard_FX32mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.69,7.162,3.267466,1.588508,3.925531,1.990931
 Standard_FX32mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.348,7.82,3.618379,1.713965,4.38012,2.2218
 Standard_FX32mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.348,7.82,3.618379,1.713965,4.38012,2.2218
 Standard_FX32mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.253,6.725,2.994406,1.418417,3.62457,1.83855
+Standard_FX32mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.69,7.162,3.267466,1.588508,3.925531,1.990931
 Standard_FX32mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,5.252,6.724,2.993493,1.417998,3.99152,2.8886
 Standard_FX32mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,6.346,7.818,3.617352,1.713508,4.37874,2.2211
 Standard_FX32mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,32,672.0,0,x64,1760,4.992,6.464,2.845662,1.347983,3.44448,1.7472
@@ -25137,13 +25206,16 @@ Standard_FX32ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,32,672.0,0,
 Standard_FX32ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.896,5.368,2.22089,1.052017,2.68824,1.3636
 Standard_FX32ms_v2,centralindia,Central India,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.655,5.127,2.083105,0.986758,2.52195,1.27925
 Standard_FX32ms_v2,centralus,Central US,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.001,5.473,2.018379,0.956088,2.436609,1.236309
+Standard_FX32ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.489,6.961,3.152169,1.53242,3.786861,1.920601
 Standard_FX32ms_v2,eastus,East US,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.541,5.013,2.018379,0.956088,2.44329,1.23935
 Standard_FX32ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,32,672.0,0,x64,0,3.541,5.013,2.018379,0.956088,2.44329,1.23935
 Standard_FX32ms_v2,francecentral,France Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.463,5.935,2.54395,1.204985,3.07947,1.56205
 Standard_FX32ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.959,6.431,2.826598,1.338927,3.42171,1.73565
+Standard_FX32ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.603,6.075,2.643721,1.285274,3.17561,1.61059
 Standard_FX32ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.136,6.608,2.927626,1.386758,3.54384,1.7976
 Standard_FX32ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.136,6.608,2.927626,1.386758,3.54384,1.7976
 Standard_FX32ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.251,5.723,2.422831,1.147641,2.93319,1.48785
+Standard_FX32ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.603,6.075,2.643721,1.285274,3.17561,1.61059
 Standard_FX32ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.249,5.721,2.422146,1.147298,3.22924,2.33695
 Standard_FX32ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,32,672.0,0,x64,0,5.135,6.607,2.926826,1.386377,3.54315,1.79725
 Standard_FX32ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,32,672.0,0,x64,0,4.039,5.511,2.302511,1.090639,2.78691,1.41365
@@ -25174,13 +25246,16 @@ Standard_FX4-2mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,4,84.0,0
 Standard_FX4-2mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.602,0.786,0.343151,0.162519,0.41538,0.2107
 Standard_FX4-2mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.565,0.749,0.321804,0.152435,0.38985,0.19775
 Standard_FX4-2mds_v2,centralus,Central US,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.618,0.802,0.311872,0.147717,0.37698,0.190962
+Standard_FX4-2mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.848,1.032,0.486986,0.236758,0.585035,0.296715
 Standard_FX4-2mds_v2,eastus,East US,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.547,0.731,0.311872,0.147717,0.37743,0.19145
 Standard_FX4-2mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.547,0.731,0.311872,0.147717,0.37743,0.19145
 Standard_FX4-2mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.689,0.873,0.393037,0.186149,0.47541,0.24115
 Standard_FX4-2mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.766,0.95,0.436644,0.206849,0.52854,0.2681
+Standard_FX4-2mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.711,0.895,0.408447,0.198554,0.490519,0.248779
 Standard_FX4-2mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.794,0.978,0.452283,0.214231,0.54786,0.2779
 Standard_FX4-2mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.794,0.978,0.452283,0.214231,0.54786,0.2779
 Standard_FX4-2mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.657,0.841,0.374315,0.177321,0.45333,0.22995
+Standard_FX4-2mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.711,0.895,0.408447,0.198554,0.490519,0.248779
 Standard_FX4-2mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.656,0.84,0.374201,0.177245,0.49856,0.3608
 Standard_FX4-2mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.793,0.977,0.452169,0.214193,0.54717,0.27755
 Standard_FX4-2mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.624,0.808,0.355708,0.168493,0.43056,0.2184
@@ -25195,13 +25270,16 @@ Standard_FX4-2ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,4,84.0,0,x
 Standard_FX4-2ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.487,0.671,0.277626,0.131507,0.33603,0.17045
 Standard_FX4-2ms_v2,centralindia,Central India,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.457,0.641,0.260388,0.123326,0.31533,0.15995
 Standard_FX4-2ms_v2,centralus,Central US,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.5,0.684,0.252283,0.119521,0.3045,0.1545
+Standard_FX4-2ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.686,0.87,0.394064,0.191553,0.473271,0.240031
 Standard_FX4-2ms_v2,eastus,East US,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.443,0.627,0.252283,0.119521,0.30567,0.15505
 Standard_FX4-2ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.443,0.627,0.252283,0.119521,0.30567,0.15505
 Standard_FX4-2ms_v2,francecentral,France Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.558,0.742,0.318037,0.150609,0.38502,0.1953
 Standard_FX4-2ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.62,0.804,0.353311,0.167352,0.4278,0.217
+Standard_FX4-2ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.575,0.759,0.330479,0.160654,0.396693,0.201192
 Standard_FX4-2ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.642,0.826,0.365982,0.173364,0.44298,0.2247
 Standard_FX4-2ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.642,0.826,0.365982,0.173364,0.44298,0.2247
 Standard_FX4-2ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.531,0.715,0.302854,0.143455,0.36639,0.18585
+Standard_FX4-2ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.575,0.759,0.330479,0.160654,0.396693,0.201192
 Standard_FX4-2ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.531,0.715,0.30274,0.143417,0.40356,0.29205
 Standard_FX4-2ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.642,0.826,0.365868,0.173288,0.44298,0.2247
 Standard_FX4-2ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.505,0.689,0.287785,0.136339,0.34845,0.17675
@@ -25216,13 +25294,16 @@ Standard_FX48-12mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,48,100
 Standard_FX48-12mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.223,9.431,4.117352,1.950304,4.98387,2.52805
 Standard_FX48-12mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,6.775,8.983,3.861986,1.829338,4.67475,2.37125
 Standard_FX48-12mds_v2,centralus,Central US,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.418,9.626,3.741895,1.772489,4.52498,2.292162
+Standard_FX48-12mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,10.175,12.383,5.843721,2.840982,7.019732,3.560233
 Standard_FX48-12mds_v2,eastus,East US,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,6.565,8.773,3.741895,1.772489,4.52985,2.29775
 Standard_FX48-12mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,6.565,8.773,3.741895,1.772489,4.52985,2.29775
 Standard_FX48-12mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,8.274,10.482,4.716096,2.23398,5.70906,2.8959
 Standard_FX48-12mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.194,11.402,5.240411,2.482268,6.34386,3.2179
+Standard_FX48-12mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,8.534,10.742,4.901256,2.382763,5.887607,2.986047
 Standard_FX48-12mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.522,11.73,5.427511,2.570928,6.57018,3.3327
 Standard_FX48-12mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.522,11.73,5.427511,2.570928,6.57018,3.3327
 Standard_FX48-12mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.88,10.088,4.491667,2.127626,5.4372,2.758
+Standard_FX48-12mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,8.534,10.742,4.901256,2.382763,5.887607,2.986047
 Standard_FX48-12mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.878,10.086,4.490297,2.126979,5.98728,4.3329
 Standard_FX48-12mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.519,11.727,5.426027,2.570244,6.56811,3.33165
 Standard_FX48-12mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.489,9.697,4.268607,2.021956,5.16741,2.62115
@@ -25237,13 +25318,16 @@ Standard_FX48-12ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,48,1008.
 Standard_FX48-12ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.844,8.052,3.331279,1.578006,4.03236,2.0454
 Standard_FX48-12ms_v2,centralindia,Central India,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.482,7.69,3.124658,1.480137,3.78258,1.9187
 Standard_FX48-12ms_v2,centralus,Central US,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.002,8.21,3.027626,1.434132,3.655218,1.854618
+Standard_FX48-12ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,48,1008.0,0,x64,0,8.233,10.441,4.728196,2.29863,5.679947,2.880727
 Standard_FX48-12ms_v2,eastus,East US,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.312,7.52,3.027626,1.434132,3.66528,1.8592
 Standard_FX48-12ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.312,7.52,3.027626,1.434132,3.66528,1.8592
 Standard_FX48-12ms_v2,francecentral,France Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.694,8.902,3.815868,1.807496,4.61886,2.3429
 Standard_FX48-12ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.439,9.647,4.239954,2.008409,5.13291,2.60365
+Standard_FX48-12ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.905,9.113,3.965525,1.927892,4.763759,2.416059
 Standard_FX48-12ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.704,9.912,4.391438,2.080175,5.31576,2.6964
 Standard_FX48-12ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.704,9.912,4.391438,2.080175,5.31576,2.6964
 Standard_FX48-12ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.376,8.584,3.634247,1.721461,4.39944,2.2316
+Standard_FX48-12ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.905,9.113,3.965525,1.927892,4.763759,2.416059
 Standard_FX48-12ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.374,8.582,3.633105,1.720967,4.84424,3.5057
 Standard_FX48-12ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.702,9.91,4.390297,2.079604,5.31438,2.6957
 Standard_FX48-12ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.059,8.267,3.453653,1.635959,4.18071,2.12065
@@ -25258,13 +25342,16 @@ Standard_FX48-24mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,48,100
 Standard_FX48-24mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.223,9.431,4.117352,1.950304,4.98387,2.52805
 Standard_FX48-24mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,6.775,8.983,3.861986,1.829338,4.67475,2.37125
 Standard_FX48-24mds_v2,centralus,Central US,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.418,9.626,3.741895,1.772489,4.52498,2.292162
+Standard_FX48-24mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,10.175,12.383,5.843721,2.840982,7.019732,3.560233
 Standard_FX48-24mds_v2,eastus,East US,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,6.565,8.773,3.741895,1.772489,4.52985,2.29775
 Standard_FX48-24mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,6.565,8.773,3.741895,1.772489,4.52985,2.29775
 Standard_FX48-24mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,8.274,10.482,4.716096,2.23398,5.70906,2.8959
 Standard_FX48-24mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.194,11.402,5.240411,2.482268,6.34386,3.2179
+Standard_FX48-24mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,8.534,10.742,4.901256,2.382763,5.887607,2.986047
 Standard_FX48-24mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.522,11.73,5.427511,2.570928,6.57018,3.3327
 Standard_FX48-24mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.522,11.73,5.427511,2.570928,6.57018,3.3327
 Standard_FX48-24mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.88,10.088,4.491667,2.127626,5.4372,2.758
+Standard_FX48-24mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,8.534,10.742,4.901256,2.382763,5.887607,2.986047
 Standard_FX48-24mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.878,10.086,4.490297,2.126979,5.98728,4.3329
 Standard_FX48-24mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.519,11.727,5.426027,2.570244,6.56811,3.33165
 Standard_FX48-24mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.489,9.697,4.268607,2.021956,5.16741,2.62115
@@ -25279,13 +25366,16 @@ Standard_FX48-24ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,48,1008.
 Standard_FX48-24ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.844,8.052,3.331279,1.578006,4.03236,2.0454
 Standard_FX48-24ms_v2,centralindia,Central India,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.482,7.69,3.124658,1.480137,3.78258,1.9187
 Standard_FX48-24ms_v2,centralus,Central US,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.002,8.21,3.027626,1.434132,3.655218,1.854618
+Standard_FX48-24ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,48,1008.0,0,x64,0,8.233,10.441,4.728196,2.29863,5.679947,2.880727
 Standard_FX48-24ms_v2,eastus,East US,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.312,7.52,3.027626,1.434132,3.66528,1.8592
 Standard_FX48-24ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.312,7.52,3.027626,1.434132,3.66528,1.8592
 Standard_FX48-24ms_v2,francecentral,France Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.694,8.902,3.815868,1.807496,4.61886,2.3429
 Standard_FX48-24ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.439,9.647,4.239954,2.008409,5.13291,2.60365
+Standard_FX48-24ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.905,9.113,3.965525,1.927892,4.763759,2.416059
 Standard_FX48-24ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.704,9.912,4.391438,2.080175,5.31576,2.6964
 Standard_FX48-24ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.704,9.912,4.391438,2.080175,5.31576,2.6964
 Standard_FX48-24ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.376,8.584,3.634247,1.721461,4.39944,2.2316
+Standard_FX48-24ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.905,9.113,3.965525,1.927892,4.763759,2.416059
 Standard_FX48-24ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.374,8.582,3.633105,1.720967,4.84424,3.5057
 Standard_FX48-24ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.702,9.91,4.390297,2.079604,5.31438,2.6957
 Standard_FX48-24ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.059,8.267,3.453653,1.635959,4.18071,2.12065
@@ -25316,13 +25406,16 @@ Standard_FX48mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,48,1008.0
 Standard_FX48mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.223,9.431,4.117352,1.950304,4.98387,2.52805
 Standard_FX48mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,6.775,8.983,3.861986,1.829338,4.67475,2.37125
 Standard_FX48mds_v2,centralus,Central US,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.418,9.626,3.741895,1.772489,4.52498,2.292162
+Standard_FX48mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,10.175,12.383,5.843721,2.840982,7.019732,3.560233
 Standard_FX48mds_v2,eastus,East US,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,6.565,8.773,3.741895,1.772489,4.52985,2.29775
 Standard_FX48mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,6.565,8.773,3.741895,1.772489,4.52985,2.29775
 Standard_FX48mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,8.274,10.482,4.716096,2.23398,5.70906,2.8959
 Standard_FX48mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.194,11.402,5.240411,2.482268,6.34386,3.2179
+Standard_FX48mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,8.534,10.742,4.901256,2.382763,5.887607,2.986047
 Standard_FX48mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.522,11.73,5.427511,2.570928,6.57018,3.3327
 Standard_FX48mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.522,11.73,5.427511,2.570928,6.57018,3.3327
 Standard_FX48mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.88,10.088,4.491667,2.127626,5.4372,2.758
+Standard_FX48mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,8.534,10.742,4.901256,2.382763,5.887607,2.986047
 Standard_FX48mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.878,10.086,4.490297,2.126979,5.98728,4.3329
 Standard_FX48mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,9.519,11.727,5.426027,2.570244,6.56811,3.33165
 Standard_FX48mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,48,1008.0,0,x64,2640,7.489,9.697,4.268607,2.021956,5.16741,2.62115
@@ -25337,13 +25430,16 @@ Standard_FX48ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,48,1008.0,0
 Standard_FX48ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.844,8.052,3.331279,1.578006,4.03236,2.0454
 Standard_FX48ms_v2,centralindia,Central India,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.482,7.69,3.124658,1.480137,3.78258,1.9187
 Standard_FX48ms_v2,centralus,Central US,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.002,8.21,3.027626,1.434132,3.655218,1.854618
+Standard_FX48ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,48,1008.0,0,x64,0,8.233,10.441,4.728196,2.29863,5.679947,2.880727
 Standard_FX48ms_v2,eastus,East US,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.312,7.52,3.027626,1.434132,3.66528,1.8592
 Standard_FX48ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,48,1008.0,0,x64,0,5.312,7.52,3.027626,1.434132,3.66528,1.8592
 Standard_FX48ms_v2,francecentral,France Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.694,8.902,3.815868,1.807496,4.61886,2.3429
 Standard_FX48ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.439,9.647,4.239954,2.008409,5.13291,2.60365
+Standard_FX48ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.905,9.113,3.965525,1.927892,4.763759,2.416059
 Standard_FX48ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.704,9.912,4.391438,2.080175,5.31576,2.6964
 Standard_FX48ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.704,9.912,4.391438,2.080175,5.31576,2.6964
 Standard_FX48ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.376,8.584,3.634247,1.721461,4.39944,2.2316
+Standard_FX48ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.905,9.113,3.965525,1.927892,4.763759,2.416059
 Standard_FX48ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.374,8.582,3.633105,1.720967,4.84424,3.5057
 Standard_FX48ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,48,1008.0,0,x64,0,7.702,9.91,4.390297,2.079604,5.31438,2.6957
 Standard_FX48ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,48,1008.0,0,x64,0,6.059,8.267,3.453653,1.635959,4.18071,2.12065
@@ -25374,13 +25470,16 @@ Standard_FX4mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,4,84.0,0,x
 Standard_FX4mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.602,0.786,0.343151,0.162519,0.41538,0.2107
 Standard_FX4mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.565,0.749,0.321804,0.152435,0.38985,0.19775
 Standard_FX4mds_v2,centralus,Central US,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.618,0.802,0.311872,0.147717,0.37698,0.190962
+Standard_FX4mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.848,1.032,0.486986,0.236758,0.585035,0.296715
 Standard_FX4mds_v2,eastus,East US,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.547,0.731,0.311872,0.147717,0.37743,0.19145
 Standard_FX4mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.547,0.731,0.311872,0.147717,0.37743,0.19145
 Standard_FX4mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.689,0.873,0.393037,0.186149,0.47541,0.24115
 Standard_FX4mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.766,0.95,0.436644,0.206849,0.52854,0.2681
+Standard_FX4mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.711,0.895,0.408447,0.198554,0.490519,0.248779
 Standard_FX4mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.794,0.978,0.452283,0.214231,0.54786,0.2779
 Standard_FX4mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.794,0.978,0.452283,0.214231,0.54786,0.2779
 Standard_FX4mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.657,0.841,0.374315,0.177321,0.45333,0.22995
+Standard_FX4mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.711,0.895,0.408447,0.198554,0.490519,0.248779
 Standard_FX4mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.656,0.84,0.374201,0.177245,0.49856,0.3608
 Standard_FX4mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.793,0.977,0.452169,0.214193,0.54717,0.27755
 Standard_FX4mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,4,84.0,0,x64,220,0.624,0.808,0.355708,0.168493,0.43056,0.2184
@@ -25395,13 +25494,16 @@ Standard_FX4ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,4,84.0,0,x64
 Standard_FX4ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.487,0.671,0.277626,0.131507,0.33603,0.17045
 Standard_FX4ms_v2,centralindia,Central India,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.457,0.641,0.260388,0.123326,0.31533,0.15995
 Standard_FX4ms_v2,centralus,Central US,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.5,0.684,0.252283,0.119521,0.3045,0.1545
+Standard_FX4ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.686,0.87,0.394064,0.191553,0.473271,0.240031
 Standard_FX4ms_v2,eastus,East US,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.443,0.627,0.252283,0.119521,0.30567,0.15505
 Standard_FX4ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.443,0.627,0.252283,0.119521,0.30567,0.15505
 Standard_FX4ms_v2,francecentral,France Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.558,0.742,0.318037,0.150609,0.38502,0.1953
 Standard_FX4ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.62,0.804,0.353311,0.167352,0.4278,0.217
+Standard_FX4ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.575,0.759,0.330479,0.160654,0.396693,0.201192
 Standard_FX4ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.642,0.826,0.365982,0.173364,0.44298,0.2247
 Standard_FX4ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.642,0.826,0.365982,0.173364,0.44298,0.2247
 Standard_FX4ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.531,0.715,0.302854,0.143455,0.36639,0.18585
+Standard_FX4ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.575,0.759,0.330479,0.160654,0.396693,0.201192
 Standard_FX4ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.531,0.715,0.30274,0.143417,0.40356,0.29205
 Standard_FX4ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.642,0.826,0.365868,0.173288,0.44298,0.2247
 Standard_FX4ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,4,84.0,0,x64,0,0.505,0.689,0.287785,0.136339,0.34845,0.17675
@@ -25416,13 +25518,16 @@ Standard_FX64-16mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,64,134
 Standard_FX64-16mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.631,12.575,5.489726,2.600419,6.64539,3.37085
 Standard_FX64-16mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.034,11.978,5.149315,2.439117,6.23346,3.1619
 Standard_FX64-16mds_v2,centralus,Central US,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.891,12.835,4.989269,2.363318,6.03351,3.056319
+Standard_FX64-16mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,13.567,16.511,7.791667,3.787976,9.359873,4.747093
 Standard_FX64-16mds_v2,eastus,East US,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,8.753,11.697,4.989269,2.363318,6.03957,3.06355
 Standard_FX64-16mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,8.753,11.697,4.989269,2.363318,6.03957,3.06355
 Standard_FX64-16mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,11.032,13.976,6.288242,2.978615,7.61208,3.8612
 Standard_FX64-16mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.258,15.202,6.987215,3.309703,8.45802,4.2903
+Standard_FX64-16mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,11.379,14.323,6.534932,3.177017,7.850372,3.981512
 Standard_FX64-16mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.696,15.64,7.236758,3.42793,8.76024,4.4436
 Standard_FX64-16mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.696,15.64,7.236758,3.42793,8.76024,4.4436
 Standard_FX64-16mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,10.507,13.451,5.988927,2.836834,7.24983,3.67745
+Standard_FX64-16mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,11.379,14.323,6.534932,3.177017,7.850372,3.981512
 Standard_FX64-16mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,10.504,13.448,5.9871,2.835997,7.98304,5.7772
 Standard_FX64-16mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.693,15.637,7.234703,3.426979,8.75817,4.44255
 Standard_FX64-16mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.985,12.929,5.691438,2.695928,6.88965,3.49475
@@ -25437,13 +25542,16 @@ Standard_FX64-16ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,64,1344.
 Standard_FX64-16ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.793,10.737,4.441781,2.103995,5.37717,2.72755
 Standard_FX64-16ms_v2,centralindia,Central India,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.309,10.253,4.166324,1.973516,5.04321,2.55815
 Standard_FX64-16ms_v2,centralus,Central US,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.003,10.947,4.036758,1.912177,4.873827,2.472927
+Standard_FX64-16ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.977,13.921,6.304224,3.06484,7.573032,3.840852
 Standard_FX64-16ms_v2,eastus,East US,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.082,10.026,4.036758,1.912177,4.88658,2.4787
 Standard_FX64-16ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.082,10.026,4.036758,1.912177,4.88658,2.4787
 Standard_FX64-16ms_v2,francecentral,France Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.926,11.87,5.087785,2.410008,6.15894,3.1241
 Standard_FX64-16ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,9.918,12.862,5.653311,2.677892,6.84342,3.4713
+Standard_FX64-16ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,64,1344.0,0,x64,0,9.207,12.151,5.287443,2.57051,6.351909,3.221529
 Standard_FX64-16ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.272,13.216,5.855251,2.773554,7.08768,3.5952
 Standard_FX64-16ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.272,13.216,5.855251,2.773554,7.08768,3.5952
 Standard_FX64-16ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.501,11.445,4.845548,2.295282,5.86569,2.97535
+Standard_FX64-16ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,9.207,12.151,5.287443,2.57051,6.351909,3.221529
 Standard_FX64-16ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.499,11.443,4.844178,2.294597,6.45924,4.67445
 Standard_FX64-16ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.27,13.214,5.853653,2.772793,7.0863,3.5945
 Standard_FX64-16ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.079,11.023,4.604909,2.181279,5.57451,2.82765
@@ -25458,13 +25566,16 @@ Standard_FX64-32mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,64,134
 Standard_FX64-32mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.631,12.575,5.489726,2.600419,6.64539,3.37085
 Standard_FX64-32mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.034,11.978,5.149315,2.439117,6.23346,3.1619
 Standard_FX64-32mds_v2,centralus,Central US,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.891,12.835,4.989269,2.363318,6.03351,3.056319
+Standard_FX64-32mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,13.567,16.511,7.791667,3.787976,9.359873,4.747093
 Standard_FX64-32mds_v2,eastus,East US,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,8.753,11.697,4.989269,2.363318,6.03957,3.06355
 Standard_FX64-32mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,8.753,11.697,4.989269,2.363318,6.03957,3.06355
 Standard_FX64-32mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,11.032,13.976,6.288242,2.978615,7.61208,3.8612
 Standard_FX64-32mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.258,15.202,6.987215,3.309703,8.45802,4.2903
+Standard_FX64-32mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,11.379,14.323,6.534932,3.177017,7.850372,3.981512
 Standard_FX64-32mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.696,15.64,7.236758,3.42793,8.76024,4.4436
 Standard_FX64-32mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.696,15.64,7.236758,3.42793,8.76024,4.4436
 Standard_FX64-32mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,10.507,13.451,5.988927,2.836834,7.24983,3.67745
+Standard_FX64-32mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,11.379,14.323,6.534932,3.177017,7.850372,3.981512
 Standard_FX64-32mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,10.504,13.448,5.9871,2.835997,7.98304,5.7772
 Standard_FX64-32mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.693,15.637,7.234703,3.426979,8.75817,4.44255
 Standard_FX64-32mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.985,12.929,5.691438,2.695928,6.88965,3.49475
@@ -25479,13 +25590,16 @@ Standard_FX64-32ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,64,1344.
 Standard_FX64-32ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.793,10.737,4.441781,2.103995,5.37717,2.72755
 Standard_FX64-32ms_v2,centralindia,Central India,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.309,10.253,4.166324,1.973516,5.04321,2.55815
 Standard_FX64-32ms_v2,centralus,Central US,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.003,10.947,4.036758,1.912177,4.873827,2.472927
+Standard_FX64-32ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.977,13.921,6.304224,3.06484,7.573032,3.840852
 Standard_FX64-32ms_v2,eastus,East US,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.082,10.026,4.036758,1.912177,4.88658,2.4787
 Standard_FX64-32ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.082,10.026,4.036758,1.912177,4.88658,2.4787
 Standard_FX64-32ms_v2,francecentral,France Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.926,11.87,5.087785,2.410008,6.15894,3.1241
 Standard_FX64-32ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,9.918,12.862,5.653311,2.677892,6.84342,3.4713
+Standard_FX64-32ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,64,1344.0,0,x64,0,9.207,12.151,5.287443,2.57051,6.351909,3.221529
 Standard_FX64-32ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.272,13.216,5.855251,2.773554,7.08768,3.5952
 Standard_FX64-32ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.272,13.216,5.855251,2.773554,7.08768,3.5952
 Standard_FX64-32ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.501,11.445,4.845548,2.295282,5.86569,2.97535
+Standard_FX64-32ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,9.207,12.151,5.287443,2.57051,6.351909,3.221529
 Standard_FX64-32ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.499,11.443,4.844178,2.294597,6.45924,4.67445
 Standard_FX64-32ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.27,13.214,5.853653,2.772793,7.0863,3.5945
 Standard_FX64-32ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.079,11.023,4.604909,2.181279,5.57451,2.82765
@@ -25500,13 +25614,16 @@ Standard_FX64mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,64,1344.0
 Standard_FX64mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.631,12.575,5.489726,2.600419,6.64539,3.37085
 Standard_FX64mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.034,11.978,5.149315,2.439117,6.23346,3.1619
 Standard_FX64mds_v2,centralus,Central US,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.891,12.835,4.989269,2.363318,6.03351,3.056319
+Standard_FX64mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,13.567,16.511,7.791667,3.787976,9.359873,4.747093
 Standard_FX64mds_v2,eastus,East US,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,8.753,11.697,4.989269,2.363318,6.03957,3.06355
 Standard_FX64mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,8.753,11.697,4.989269,2.363318,6.03957,3.06355
 Standard_FX64mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,11.032,13.976,6.288242,2.978615,7.61208,3.8612
 Standard_FX64mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.258,15.202,6.987215,3.309703,8.45802,4.2903
+Standard_FX64mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,11.379,14.323,6.534932,3.177017,7.850372,3.981512
 Standard_FX64mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.696,15.64,7.236758,3.42793,8.76024,4.4436
 Standard_FX64mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.696,15.64,7.236758,3.42793,8.76024,4.4436
 Standard_FX64mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,10.507,13.451,5.988927,2.836834,7.24983,3.67745
+Standard_FX64mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,11.379,14.323,6.534932,3.177017,7.850372,3.981512
 Standard_FX64mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,10.504,13.448,5.9871,2.835997,7.98304,5.7772
 Standard_FX64mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,12.693,15.637,7.234703,3.426979,8.75817,4.44255
 Standard_FX64mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,64,1344.0,0,x64,3520,9.985,12.929,5.691438,2.695928,6.88965,3.49475
@@ -25521,13 +25638,16 @@ Standard_FX64ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,64,1344.0,0
 Standard_FX64ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.793,10.737,4.441781,2.103995,5.37717,2.72755
 Standard_FX64ms_v2,centralindia,Central India,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.309,10.253,4.166324,1.973516,5.04321,2.55815
 Standard_FX64ms_v2,centralus,Central US,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.003,10.947,4.036758,1.912177,4.873827,2.472927
+Standard_FX64ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.977,13.921,6.304224,3.06484,7.573032,3.840852
 Standard_FX64ms_v2,eastus,East US,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.082,10.026,4.036758,1.912177,4.88658,2.4787
 Standard_FX64ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,64,1344.0,0,x64,0,7.082,10.026,4.036758,1.912177,4.88658,2.4787
 Standard_FX64ms_v2,francecentral,France Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.926,11.87,5.087785,2.410008,6.15894,3.1241
 Standard_FX64ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,9.918,12.862,5.653311,2.677892,6.84342,3.4713
+Standard_FX64ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,64,1344.0,0,x64,0,9.207,12.151,5.287443,2.57051,6.351909,3.221529
 Standard_FX64ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.272,13.216,5.855251,2.773554,7.08768,3.5952
 Standard_FX64ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.272,13.216,5.855251,2.773554,7.08768,3.5952
 Standard_FX64ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.501,11.445,4.845548,2.295282,5.86569,2.97535
+Standard_FX64ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,9.207,12.151,5.287443,2.57051,6.351909,3.221529
 Standard_FX64ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.499,11.443,4.844178,2.294597,6.45924,4.67445
 Standard_FX64ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,64,1344.0,0,x64,0,10.27,13.214,5.853653,2.772793,7.0863,3.5945
 Standard_FX64ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,64,1344.0,0,x64,0,8.079,11.023,4.604909,2.181279,5.57451,2.82765
@@ -25542,13 +25662,16 @@ Standard_FX8-2mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,8,168.0,
 Standard_FX8-2mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.204,1.572,0.686187,0.325038,0.83076,0.4214
 Standard_FX8-2mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.129,1.497,0.643607,0.304909,0.77901,0.39515
 Standard_FX8-2mds_v2,centralus,Central US,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.236,1.604,0.62363,0.295434,0.75396,0.381924
+Standard_FX8-2mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.696,2.064,0.973973,0.473516,1.17007,0.59343
 Standard_FX8-2mds_v2,eastus,East US,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.094,1.462,0.62363,0.295434,0.75486,0.3829
 Standard_FX8-2mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.094,1.462,0.62363,0.295434,0.75486,0.3829
 Standard_FX8-2mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.379,1.747,0.786073,0.372336,0.95151,0.48265
 Standard_FX8-2mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.532,1.9,0.873402,0.413699,1.05708,0.5362
+Standard_FX8-2mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.422,1.79,0.816895,0.397146,0.981038,0.497558
 Standard_FX8-2mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.587,1.955,0.904566,0.428501,1.09503,0.55545
 Standard_FX8-2mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.587,1.955,0.904566,0.428501,1.09503,0.55545
 Standard_FX8-2mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.313,1.681,0.74863,0.354604,0.90597,0.45955
+Standard_FX8-2mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.422,1.79,0.816895,0.397146,0.981038,0.497558
 Standard_FX8-2mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.313,1.681,0.748402,0.35449,0.99788,0.72215
 Standard_FX8-2mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.587,1.955,0.904338,0.428387,1.09503,0.55545
 Standard_FX8-2mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.248,1.616,0.711416,0.336986,0.86112,0.4368
@@ -25563,13 +25686,16 @@ Standard_FX8-2ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,8,168.0,0,
 Standard_FX8-2ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.974,1.342,0.555251,0.263014,0.67206,0.3409
 Standard_FX8-2ms_v2,centralindia,Central India,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.914,1.282,0.520776,0.246689,0.63066,0.3199
 Standard_FX8-2ms_v2,centralus,Central US,Compute optimized,FXmsv2,8,168.0,0,x64,0,1,1.368,0.504566,0.239003,0.609,0.309
+Standard_FX8-2ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.372,1.74,0.788014,0.383105,0.946543,0.480063
 Standard_FX8-2ms_v2,eastus,East US,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.885,1.253,0.504566,0.239003,0.61065,0.30975
 Standard_FX8-2ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.885,1.253,0.504566,0.239003,0.61065,0.30975
 Standard_FX8-2ms_v2,francecentral,France Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.116,1.484,0.635959,0.301256,0.77004,0.3906
 Standard_FX8-2ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.24,1.608,0.706621,0.334741,0.8556,0.434
+Standard_FX8-2ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.151,1.519,0.660959,0.321309,0.794075,0.402735
 Standard_FX8-2ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.284,1.652,0.731963,0.346689,0.88596,0.4494
 Standard_FX8-2ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.284,1.652,0.731963,0.346689,0.88596,0.4494
 Standard_FX8-2ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.063,1.431,0.605708,0.28691,0.73347,0.37205
+Standard_FX8-2ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.151,1.519,0.660959,0.321309,0.794075,0.402735
 Standard_FX8-2ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.062,1.43,0.605479,0.286834,0.80712,0.5841
 Standard_FX8-2ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.284,1.652,0.731735,0.346613,0.88596,0.4494
 Standard_FX8-2ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.01,1.378,0.575571,0.272679,0.6969,0.3535
@@ -25584,13 +25710,16 @@ Standard_FX8-4mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,8,168.0,
 Standard_FX8-4mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.204,1.572,0.686187,0.325038,0.83076,0.4214
 Standard_FX8-4mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.129,1.497,0.643607,0.304909,0.77901,0.39515
 Standard_FX8-4mds_v2,centralus,Central US,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.236,1.604,0.62363,0.295434,0.75396,0.381924
+Standard_FX8-4mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.696,2.064,0.973973,0.473516,1.17007,0.59343
 Standard_FX8-4mds_v2,eastus,East US,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.094,1.462,0.62363,0.295434,0.75486,0.3829
 Standard_FX8-4mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.094,1.462,0.62363,0.295434,0.75486,0.3829
 Standard_FX8-4mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.379,1.747,0.786073,0.372336,0.95151,0.48265
 Standard_FX8-4mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.532,1.9,0.873402,0.413699,1.05708,0.5362
+Standard_FX8-4mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.422,1.79,0.816895,0.397146,0.981038,0.497558
 Standard_FX8-4mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.587,1.955,0.904566,0.428501,1.09503,0.55545
 Standard_FX8-4mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.587,1.955,0.904566,0.428501,1.09503,0.55545
 Standard_FX8-4mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.313,1.681,0.74863,0.354604,0.90597,0.45955
+Standard_FX8-4mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.422,1.79,0.816895,0.397146,0.981038,0.497558
 Standard_FX8-4mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.313,1.681,0.748402,0.35449,0.99788,0.72215
 Standard_FX8-4mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.587,1.955,0.904338,0.428387,1.09503,0.55545
 Standard_FX8-4mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.248,1.616,0.711416,0.336986,0.86112,0.4368
@@ -25605,13 +25734,16 @@ Standard_FX8-4ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,8,168.0,0,
 Standard_FX8-4ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.974,1.342,0.555251,0.263014,0.67206,0.3409
 Standard_FX8-4ms_v2,centralindia,Central India,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.914,1.282,0.520776,0.246689,0.63066,0.3199
 Standard_FX8-4ms_v2,centralus,Central US,Compute optimized,FXmsv2,8,168.0,0,x64,0,1,1.368,0.504566,0.239003,0.609,0.309
+Standard_FX8-4ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.372,1.74,0.788014,0.383105,0.946543,0.480063
 Standard_FX8-4ms_v2,eastus,East US,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.885,1.253,0.504566,0.239003,0.61065,0.30975
 Standard_FX8-4ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.885,1.253,0.504566,0.239003,0.61065,0.30975
 Standard_FX8-4ms_v2,francecentral,France Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.116,1.484,0.635959,0.301256,0.77004,0.3906
 Standard_FX8-4ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.24,1.608,0.706621,0.334741,0.8556,0.434
+Standard_FX8-4ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.151,1.519,0.660959,0.321309,0.794075,0.402735
 Standard_FX8-4ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.284,1.652,0.731963,0.346689,0.88596,0.4494
 Standard_FX8-4ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.284,1.652,0.731963,0.346689,0.88596,0.4494
 Standard_FX8-4ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.063,1.431,0.605708,0.28691,0.73347,0.37205
+Standard_FX8-4ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.151,1.519,0.660959,0.321309,0.794075,0.402735
 Standard_FX8-4ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.062,1.43,0.605479,0.286834,0.80712,0.5841
 Standard_FX8-4ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.284,1.652,0.731735,0.346613,0.88596,0.4494
 Standard_FX8-4ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.01,1.378,0.575571,0.272679,0.6969,0.3535
@@ -25626,13 +25758,16 @@ Standard_FX8mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,8,168.0,0,
 Standard_FX8mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.204,1.572,0.686187,0.325038,0.83076,0.4214
 Standard_FX8mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.129,1.497,0.643607,0.304909,0.77901,0.39515
 Standard_FX8mds_v2,centralus,Central US,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.236,1.604,0.62363,0.295434,0.75396,0.381924
+Standard_FX8mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.696,2.064,0.973973,0.473516,1.17007,0.59343
 Standard_FX8mds_v2,eastus,East US,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.094,1.462,0.62363,0.295434,0.75486,0.3829
 Standard_FX8mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.094,1.462,0.62363,0.295434,0.75486,0.3829
 Standard_FX8mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.379,1.747,0.786073,0.372336,0.95151,0.48265
 Standard_FX8mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.532,1.9,0.873402,0.413699,1.05708,0.5362
+Standard_FX8mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.422,1.79,0.816895,0.397146,0.981038,0.497558
 Standard_FX8mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.587,1.955,0.904566,0.428501,1.09503,0.55545
 Standard_FX8mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.587,1.955,0.904566,0.428501,1.09503,0.55545
 Standard_FX8mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.313,1.681,0.74863,0.354604,0.90597,0.45955
+Standard_FX8mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.422,1.79,0.816895,0.397146,0.981038,0.497558
 Standard_FX8mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.313,1.681,0.748402,0.35449,0.99788,0.72215
 Standard_FX8mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.587,1.955,0.904338,0.428387,1.09503,0.55545
 Standard_FX8mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,8,168.0,0,x64,440,1.248,1.616,0.711416,0.336986,0.86112,0.4368
@@ -25647,13 +25782,16 @@ Standard_FX8ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,8,168.0,0,x6
 Standard_FX8ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.974,1.342,0.555251,0.263014,0.67206,0.3409
 Standard_FX8ms_v2,centralindia,Central India,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.914,1.282,0.520776,0.246689,0.63066,0.3199
 Standard_FX8ms_v2,centralus,Central US,Compute optimized,FXmsv2,8,168.0,0,x64,0,1,1.368,0.504566,0.239003,0.609,0.309
+Standard_FX8ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.372,1.74,0.788014,0.383105,0.946543,0.480063
 Standard_FX8ms_v2,eastus,East US,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.885,1.253,0.504566,0.239003,0.61065,0.30975
 Standard_FX8ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,8,168.0,0,x64,0,0.885,1.253,0.504566,0.239003,0.61065,0.30975
 Standard_FX8ms_v2,francecentral,France Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.116,1.484,0.635959,0.301256,0.77004,0.3906
 Standard_FX8ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.24,1.608,0.706621,0.334741,0.8556,0.434
+Standard_FX8ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.151,1.519,0.660959,0.321309,0.794075,0.402735
 Standard_FX8ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.284,1.652,0.731963,0.346689,0.88596,0.4494
 Standard_FX8ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.284,1.652,0.731963,0.346689,0.88596,0.4494
 Standard_FX8ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.063,1.431,0.605708,0.28691,0.73347,0.37205
+Standard_FX8ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.151,1.519,0.660959,0.321309,0.794075,0.402735
 Standard_FX8ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.062,1.43,0.605479,0.286834,0.80712,0.5841
 Standard_FX8ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.284,1.652,0.731735,0.346613,0.88596,0.4494
 Standard_FX8ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,8,168.0,0,x64,0,1.01,1.378,0.575571,0.272679,0.6969,0.3535
@@ -25668,13 +25806,16 @@ Standard_FX96-24mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,96,183
 Standard_FX96-24mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,14.447,18.863,8.234703,3.900609,9.96843,5.05645
 Standard_FX96-24mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,13.551,17.967,7.723858,3.658676,9.35019,4.74285
 Standard_FX96-24mds_v2,centralus,Central US,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,14.837,19.253,7.483904,3.545015,9.05057,4.584633
+Standard_FX96-24mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,20.351,24.767,11.687557,5.682002,14.040155,7.120815
 Standard_FX96-24mds_v2,eastus,East US,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,13.13,17.546,7.483904,3.545015,9.0597,4.5955
 Standard_FX96-24mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,13.13,17.546,7.483904,3.545015,9.0597,4.5955
 Standard_FX96-24mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,16.548,20.964,9.432306,4.467922,11.41812,5.7918
 Standard_FX96-24mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,18.387,22.803,10.480708,4.964574,12.68703,6.43545
+Standard_FX96-24mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,17.069,21.485,9.802397,4.765525,11.775903,5.972443
 Standard_FX96-24mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,19.044,23.46,10.855137,5.141895,13.14036,6.6654
 Standard_FX96-24mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,19.044,23.46,10.855137,5.141895,13.14036,6.6654
 Standard_FX96-24mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,15.76,20.176,8.983333,4.255251,10.8744,5.516
+Standard_FX96-24mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,17.069,21.485,9.802397,4.765525,11.775903,5.972443
 Standard_FX96-24mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,15.756,20.172,8.980594,4.253995,11.97456,8.6658
 Standard_FX96-24mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,19.039,23.455,10.852169,5.140487,13.13691,6.66365
 Standard_FX96-24mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,14.977,19.393,8.5371,4.043912,10.33413,5.24195
@@ -25689,13 +25830,16 @@ Standard_FX96-24ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,96,1832.
 Standard_FX96-24ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,11.689,16.105,6.662671,3.156012,8.06541,4.09115
 Standard_FX96-24ms_v2,centralindia,Central India,Compute optimized,FXmsv2,96,1832.0,0,x64,0,10.964,15.38,6.249429,2.960236,7.56516,3.8374
 Standard_FX96-24ms_v2,centralus,Central US,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.004,16.42,6.055251,2.868265,7.310436,3.709236
+Standard_FX96-24ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,96,1832.0,0,x64,0,16.466,20.882,9.456393,4.597298,11.359893,5.761453
 Standard_FX96-24ms_v2,eastus,East US,Compute optimized,FXmsv2,96,1832.0,0,x64,0,10.623,15.039,6.055251,2.868265,7.32987,3.71805
 Standard_FX96-24ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,96,1832.0,0,x64,0,10.623,15.039,6.055251,2.868265,7.32987,3.71805
 Standard_FX96-24ms_v2,francecentral,France Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,13.389,17.805,7.631735,3.614992,9.23841,4.68615
 Standard_FX96-24ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,14.877,19.293,8.479909,4.016819,10.26513,5.20695
+Standard_FX96-24ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,96,1832.0,0,x64,0,13.81,18.226,7.931164,3.855784,9.527519,4.832119
 Standard_FX96-24ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,96,1832.0,0,x64,0,15.409,19.825,8.782877,4.160312,10.63221,5.39315
 Standard_FX96-24ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,15.409,19.825,8.782877,4.160312,10.63221,5.39315
 Standard_FX96-24ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.752,17.168,7.268379,3.442922,8.79888,4.4632
+Standard_FX96-24ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,13.81,18.226,7.931164,3.855784,9.527519,4.832119
 Standard_FX96-24ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.748,17.164,7.266324,3.441933,9.68848,7.0114
 Standard_FX96-24ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,96,1832.0,0,x64,0,15.404,19.82,8.780479,4.15917,10.62876,5.3914
 Standard_FX96-24ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.118,16.534,6.90742,3.271918,8.36142,4.2413
@@ -25710,13 +25854,16 @@ Standard_FX96-48mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,96,183
 Standard_FX96-48mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,14.447,18.863,8.234703,3.900609,9.96843,5.05645
 Standard_FX96-48mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,13.551,17.967,7.723858,3.658676,9.35019,4.74285
 Standard_FX96-48mds_v2,centralus,Central US,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,14.837,19.253,7.483904,3.545015,9.05057,4.584633
+Standard_FX96-48mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,20.351,24.767,11.687557,5.682002,14.040155,7.120815
 Standard_FX96-48mds_v2,eastus,East US,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,13.13,17.546,7.483904,3.545015,9.0597,4.5955
 Standard_FX96-48mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,13.13,17.546,7.483904,3.545015,9.0597,4.5955
 Standard_FX96-48mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,16.548,20.964,9.432306,4.467922,11.41812,5.7918
 Standard_FX96-48mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,18.387,22.803,10.480708,4.964574,12.68703,6.43545
+Standard_FX96-48mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,17.069,21.485,9.802397,4.765525,11.775903,5.972443
 Standard_FX96-48mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,19.044,23.46,10.855137,5.141895,13.14036,6.6654
 Standard_FX96-48mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,19.044,23.46,10.855137,5.141895,13.14036,6.6654
 Standard_FX96-48mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,15.76,20.176,8.983333,4.255251,10.8744,5.516
+Standard_FX96-48mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,17.069,21.485,9.802397,4.765525,11.775903,5.972443
 Standard_FX96-48mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,15.756,20.172,8.980594,4.253995,11.97456,8.6658
 Standard_FX96-48mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,19.039,23.455,10.852169,5.140487,13.13691,6.66365
 Standard_FX96-48mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,14.977,19.393,8.5371,4.043912,10.33413,5.24195
@@ -25731,13 +25878,16 @@ Standard_FX96-48ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,96,1832.
 Standard_FX96-48ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,11.689,16.105,6.662671,3.156012,8.06541,4.09115
 Standard_FX96-48ms_v2,centralindia,Central India,Compute optimized,FXmsv2,96,1832.0,0,x64,0,10.964,15.38,6.249429,2.960236,7.56516,3.8374
 Standard_FX96-48ms_v2,centralus,Central US,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.004,16.42,6.055251,2.868265,7.310436,3.709236
+Standard_FX96-48ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,96,1832.0,0,x64,0,16.466,20.882,9.456393,4.597298,11.359893,5.761453
 Standard_FX96-48ms_v2,eastus,East US,Compute optimized,FXmsv2,96,1832.0,0,x64,0,10.623,15.039,6.055251,2.868265,7.32987,3.71805
 Standard_FX96-48ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,96,1832.0,0,x64,0,10.623,15.039,6.055251,2.868265,7.32987,3.71805
 Standard_FX96-48ms_v2,francecentral,France Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,13.389,17.805,7.631735,3.614992,9.23841,4.68615
 Standard_FX96-48ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,14.877,19.293,8.479909,4.016819,10.26513,5.20695
+Standard_FX96-48ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,96,1832.0,0,x64,0,13.81,18.226,7.931164,3.855784,9.527519,4.832119
 Standard_FX96-48ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,96,1832.0,0,x64,0,15.409,19.825,8.782877,4.160312,10.63221,5.39315
 Standard_FX96-48ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,15.409,19.825,8.782877,4.160312,10.63221,5.39315
 Standard_FX96-48ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.752,17.168,7.268379,3.442922,8.79888,4.4632
+Standard_FX96-48ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,13.81,18.226,7.931164,3.855784,9.527519,4.832119
 Standard_FX96-48ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.748,17.164,7.266324,3.441933,9.68848,7.0114
 Standard_FX96-48ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,96,1832.0,0,x64,0,15.404,19.82,8.780479,4.15917,10.62876,5.3914
 Standard_FX96-48ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.118,16.534,6.90742,3.271918,8.36142,4.2413
@@ -25752,13 +25902,16 @@ Standard_FX96mds_v2,brazilsouth,Brazil South,Compute optimized,FXmdsv2,96,1832.0
 Standard_FX96mds_v2,canadacentral,Canada Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,14.447,18.863,8.234703,3.900609,9.96843,5.05645
 Standard_FX96mds_v2,centralindia,Central India,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,13.551,17.967,7.723858,3.658676,9.35019,4.74285
 Standard_FX96mds_v2,centralus,Central US,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,14.837,19.253,7.483904,3.545015,9.05057,4.584633
+Standard_FX96mds_v2,eastasia,East Asia,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,20.351,24.767,11.687557,5.682002,14.040155,7.120815
 Standard_FX96mds_v2,eastus,East US,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,13.13,17.546,7.483904,3.545015,9.0597,4.5955
 Standard_FX96mds_v2,eastus2,East US 2,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,13.13,17.546,7.483904,3.545015,9.0597,4.5955
 Standard_FX96mds_v2,francecentral,France Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,16.548,20.964,9.432306,4.467922,11.41812,5.7918
 Standard_FX96mds_v2,germanywestcentral,Germany West Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,18.387,22.803,10.480708,4.964574,12.68703,6.43545
+Standard_FX96mds_v2,italynorth,Italy North,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,17.069,21.485,9.802397,4.765525,11.775903,5.972443
 Standard_FX96mds_v2,japaneast,Japan East,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,19.044,23.46,10.855137,5.141895,13.14036,6.6654
 Standard_FX96mds_v2,koreacentral,Korea Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,19.044,23.46,10.855137,5.141895,13.14036,6.6654
 Standard_FX96mds_v2,northeurope,North Europe,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,15.76,20.176,8.983333,4.255251,10.8744,5.516
+Standard_FX96mds_v2,polandcentral,Poland Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,17.069,21.485,9.802397,4.765525,11.775903,5.972443
 Standard_FX96mds_v2,southcentralus,South Central US,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,15.756,20.172,8.980594,4.253995,11.97456,8.6658
 Standard_FX96mds_v2,southeastasia,Southeast Asia,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,19.039,23.455,10.852169,5.140487,13.13691,6.66365
 Standard_FX96mds_v2,swedencentral,Sweden Central,Compute optimized,FXmdsv2,96,1832.0,0,x64,5280,14.977,19.393,8.5371,4.043912,10.33413,5.24195
@@ -25773,13 +25926,16 @@ Standard_FX96ms_v2,brazilsouth,Brazil South,Compute optimized,FXmsv2,96,1832.0,0
 Standard_FX96ms_v2,canadacentral,Canada Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,11.689,16.105,6.662671,3.156012,8.06541,4.09115
 Standard_FX96ms_v2,centralindia,Central India,Compute optimized,FXmsv2,96,1832.0,0,x64,0,10.964,15.38,6.249429,2.960236,7.56516,3.8374
 Standard_FX96ms_v2,centralus,Central US,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.004,16.42,6.055251,2.868265,7.310436,3.709236
+Standard_FX96ms_v2,eastasia,East Asia,Compute optimized,FXmsv2,96,1832.0,0,x64,0,16.466,20.882,9.456393,4.597298,11.359893,5.761453
 Standard_FX96ms_v2,eastus,East US,Compute optimized,FXmsv2,96,1832.0,0,x64,0,10.623,15.039,6.055251,2.868265,7.32987,3.71805
 Standard_FX96ms_v2,eastus2,East US 2,Compute optimized,FXmsv2,96,1832.0,0,x64,0,10.623,15.039,6.055251,2.868265,7.32987,3.71805
 Standard_FX96ms_v2,francecentral,France Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,13.389,17.805,7.631735,3.614992,9.23841,4.68615
 Standard_FX96ms_v2,germanywestcentral,Germany West Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,14.877,19.293,8.479909,4.016819,10.26513,5.20695
+Standard_FX96ms_v2,italynorth,Italy North,Compute optimized,FXmsv2,96,1832.0,0,x64,0,13.81,18.226,7.931164,3.855784,9.527519,4.832119
 Standard_FX96ms_v2,japaneast,Japan East,Compute optimized,FXmsv2,96,1832.0,0,x64,0,15.409,19.825,8.782877,4.160312,10.63221,5.39315
 Standard_FX96ms_v2,koreacentral,Korea Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,15.409,19.825,8.782877,4.160312,10.63221,5.39315
 Standard_FX96ms_v2,northeurope,North Europe,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.752,17.168,7.268379,3.442922,8.79888,4.4632
+Standard_FX96ms_v2,polandcentral,Poland Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,13.81,18.226,7.931164,3.855784,9.527519,4.832119
 Standard_FX96ms_v2,southcentralus,South Central US,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.748,17.164,7.266324,3.441933,9.68848,7.0114
 Standard_FX96ms_v2,southeastasia,Southeast Asia,Compute optimized,FXmsv2,96,1832.0,0,x64,0,15.404,19.82,8.780479,4.15917,10.62876,5.3914
 Standard_FX96ms_v2,swedencentral,Sweden Central,Compute optimized,FXmsv2,96,1832.0,0,x64,0,12.118,16.534,6.90742,3.271918,8.36142,4.2413
@@ -28447,6 +28603,7 @@ Standard_M416bs_v3,westus2,West US 2,Memory optimized,Mbsv3,416,3800.0,0,x64,0,4
 Standard_M416ds_10_v3,brazilsouth,Brazil South,Memory optimized,Mds10v3,416,9496.0,0,x64,400,154.7787,173.9147,90.019406,43.461872,106.781825,54.157067
 Standard_M416ds_10_v3,centralindia,Central India,Memory optimized,Mds10v3,416,9496.0,0,x64,400,99.6388,118.7748,57.95,27.978577,68.740808,34.863616
 Standard_M416ds_10_v3,centralus,Central US,Memory optimized,Mds10v3,416,9496.0,0,x64,400,109.3125,128.4485,63.576142,30.694939,75.414694,38.248444
+Standard_M416ds_10_v3,eastasia,East Asia,Memory optimized,Mds10v3,416,9496.0,0,x64,400,149.941887,169.077887,87.206279,42.103691,103.444908,52.464666
 Standard_M416ds_10_v3,eastus,East US,Memory optimized,Mds10v3,416,9496.0,0,x64,400,96.7367,115.8727,56.2621,27.163661,66.738649,33.848171
 Standard_M416ds_10_v3,eastus2,East US 2,Memory optimized,Mds10v3,416,9496.0,0,x64,400,96.7367,115.8727,56.2621,27.163661,66.738649,33.848171
 Standard_M416ds_10_v3,germanywestcentral,Germany West Central,Memory optimized,Mds10v3,416,9496.0,0,x64,400,116.084,135.22,67.514498,32.596385,80.086352,40.617792
@@ -28463,6 +28620,7 @@ Standard_M416ds_10_v3,westus3,West US 3,Memory optimized,Mds10v3,416,9496.0,0,x6
 Standard_M416ds_12_v3,brazilsouth,Brazil South,Memory optimized,Mds12v3,416,11400.0,0,x64,400,185.6832,204.8192,107.993379,52.13984,128.10284,64.970552
 Standard_M416ds_12_v3,centralindia,Central India,Memory optimized,Mds12v3,416,11400.0,0,x64,400,119.5336,138.6696,69.520776,33.56503,82.466231,41.824807
 Standard_M416ds_12_v3,centralus,Central US,Memory optimized,Mds12v3,416,11400.0,0,x64,400,131.1388,150.2748,76.27032,36.823782,90.472658,45.885466
+Standard_M416ds_12_v3,eastasia,East Asia,Memory optimized,Mds12v3,416,11400.0,0,x64,400,179.8806,199.0166,104.618721,50.510464,124.099626,62.940222
 Standard_M416ds_12_v3,eastus,East US,Memory optimized,Mds12v3,416,11400.0,0,x64,400,116.052,135.188,67.49589,32.587405,80.064275,40.606595
 Standard_M416ds_12_v3,eastus2,East US 2,Memory optimized,Mds12v3,416,11400.0,0,x64,400,116.052,135.188,67.49589,32.587405,80.064275,40.606595
 Standard_M416ds_12_v3,germanywestcentral,Germany West Central,Memory optimized,Mds12v3,416,11400.0,0,x64,400,139.2624,158.3984,80.995091,39.104871,96.07713,48.727914
@@ -28479,6 +28637,7 @@ Standard_M416ds_12_v3,westus3,West US 3,Memory optimized,Mds12v3,416,11400.0,0,x
 Standard_M416ds_6_v3,brazilsouth,Brazil South,Memory optimized,Mds6v3,416,5696.0,0,x64,400,92.629845,111.765845,53.873516,26.010464,63.90533,32.411183
 Standard_M416ds_6_v3,centralindia,Central India,Memory optimized,Mds6v3,416,5696.0,0,x64,400,59.913,79.049,34.845434,16.823554,41.333979,20.963559
 Standard_M416ds_6_v3,centralus,Central US,Memory optimized,Mds6v3,416,5696.0,0,x64,400,65.6154,84.7514,38.161872,18.42481,45.268064,22.958828
+Standard_M416ds_6_v3,eastasia,East Asia,Memory optimized,Mds6v3,416,5696.0,0,x64,400,90.003029,109.139029,52.345776,25.272831,62.09309,31.49206
 Standard_M416ds_6_v3,eastus,East US,Memory optimized,Mds6v3,416,5696.0,0,x64,400,58.06647,77.20247,33.771461,16.305061,40.060058,20.317458
 Standard_M416ds_6_v3,eastus2,East US 2,Memory optimized,Mds6v3,416,5696.0,0,x64,400,58.06647,77.20247,33.771461,16.305061,40.060058,20.317458
 Standard_M416ds_6_v3,germanywestcentral,Germany West Central,Memory optimized,Mds6v3,416,5696.0,0,x64,400,69.678,88.814,40.524772,19.565601,48.070852,24.380332
@@ -28496,6 +28655,7 @@ Standard_M416ds_6_v3,westus3,West US 3,Memory optimized,Mds6v3,416,5696.0,0,x64,
 Standard_M416ds_8_v3,brazilsouth,Brazil South,Memory optimized,Mds8v3,416,7600.0,0,x64,400,123.50646,142.64246,71.831393,34.680632,85.207107,43.21491
 Standard_M416ds_8_v3,centralindia,Central India,Memory optimized,Mds8v3,416,7600.0,0,x64,400,79.875,99.011,46.455251,22.428881,55.105762,27.948262
 Standard_M416ds_8_v3,centralus,Central US,Memory optimized,Mds8v3,416,7600.0,0,x64,400,87.4872,106.6232,50.882534,24.5664,60.357419,30.611771
+Standard_M416ds_8_v3,eastasia,East Asia,Memory optimized,Mds8v3,416,7600.0,0,x64,400,120.004038,139.140038,69.794521,33.697108,82.790786,41.989413
 Standard_M416ds_8_v3,eastus,East US,Memory optimized,Mds8v3,416,7600.0,0,x64,400,77.42196,96.55796,45.028653,21.740068,53.41341,27.089944
 Standard_M416ds_8_v3,eastus2,East US 2,Memory optimized,Mds8v3,416,7600.0,0,x64,400,77.42196,96.55796,45.028653,21.740068,53.41341,27.089944
 Standard_M416ds_8_v3,germanywestcentral,Germany West Central,Memory optimized,Mds8v3,416,7600.0,0,x64,400,92.907,112.043,54.034703,26.08828,64.096539,32.508159
@@ -28513,6 +28673,7 @@ Standard_M416ds_8_v3,westus3,West US 3,Memory optimized,Mds8v3,416,7600.0,0,x64,
 Standard_M416ds_9_v3,brazilsouth,Brazil South,Memory optimized,Mds9v3,416,8568.0,0,x64,400,139.6529,158.7889,81.222146,39.214536,96.346536,48.86455
 Standard_M416ds_9_v3,centralindia,Central India,Memory optimized,Mds9v3,416,8568.0,0,x64,400,89.9016,109.0376,52.286758,25.244368,62.023114,31.45657
 Standard_M416ds_9_v3,centralus,Central US,Memory optimized,Mds9v3,416,8568.0,0,x64,400,98.6299,117.7659,57.363128,27.695282,68.044768,34.510602
+Standard_M416ds_9_v3,eastasia,East Asia,Memory optimized,Mds9v3,416,8568.0,0,x64,400,135.288763,154.424763,78.684018,37.989079,93.335718,47.337538
 Standard_M416ds_9_v3,eastus,East US,Memory optimized,Mds9v3,416,8568.0,0,x64,400,87.2831,106.4191,50.763813,24.509094,60.216611,30.540357
 Standard_M416ds_9_v3,eastus2,East US 2,Memory optimized,Mds9v3,416,8568.0,0,x64,400,87.2831,106.4191,50.763813,24.509094,60.216611,30.540357
 Standard_M416ds_9_v3,germanywestcentral,Germany West Central,Memory optimized,Mds9v3,416,8568.0,0,x64,400,104.7397,123.8757,60.916553,29.410921,72.259919,36.648421
@@ -28573,6 +28734,7 @@ Standard_M416s_10_v2,westus3,West US 3,Memory optimized,Ms10v2,416,9496.0,0,x64,
 Standard_M416s_10_v3,brazilsouth,Brazil South,Memory optimized,Ms10v3,416,9496.0,0,x64,0,147.8818,167.0178,86.007991,41.525228,102.023654,51.743842
 Standard_M416s_10_v3,centralindia,Central India,Memory optimized,Ms10v3,416,9496.0,0,x64,0,95.1989,114.3349,55.367694,26.731887,65.677721,33.310095
 Standard_M416s_10_v3,centralus,Central US,Memory optimized,Ms10v3,416,9496.0,0,x64,0,104.4415,123.5775,60.743151,29.327207,72.054191,36.544081
+Standard_M416s_10_v3,eastasia,East Asia,Memory optimized,Ms10v3,416,9496.0,0,x64,0,143.260509,162.396509,83.32032,40.227588,98.835425,50.126852
 Standard_M416s_10_v3,eastus,East US,Memory optimized,Ms10v3,416,9496.0,0,x64,0,92.4261,111.5621,53.755023,25.953272,63.764766,32.339892
 Standard_M416s_10_v3,eastus2,East US 2,Memory optimized,Ms10v3,416,9496.0,0,x64,0,92.4261,111.5621,53.755023,25.953272,63.764766,32.339892
 Standard_M416s_10_v3,germanywestcentral,Germany West Central,Memory optimized,Ms10v3,416,9496.0,0,x64,0,110.9114,130.0474,64.50605,31.143912,76.517775,38.807899
@@ -28589,6 +28751,7 @@ Standard_M416s_10_v3,westus3,West US 3,Memory optimized,Ms10v3,416,9496.0,0,x64,
 Standard_M416s_12_v3,brazilsouth,Brazil South,Memory optimized,Ms12v3,416,11400.0,0,x64,0,176.928,196.064,102.90137,49.681393,122.062627,61.907107
 Standard_M416s_12_v3,centralindia,Central India,Memory optimized,Ms12v3,416,11400.0,0,x64,0,113.8974,133.0334,66.242808,31.98242,78.577816,39.8527
 Standard_M416s_12_v3,centralus,Central US,Memory optimized,Ms12v3,416,11400.0,0,x64,0,124.9554,144.0914,72.674087,35.087481,86.20673,43.721894
+Standard_M416s_12_v3,eastasia,East Asia,Memory optimized,Ms12v3,416,11400.0,0,x64,0,171.399,190.535,99.685731,48.128843,118.24817,59.97251
 Standard_M416s_12_v3,eastus,East US,Memory optimized,Ms12v3,416,11400.0,0,x64,0,110.58,129.716,64.313356,31.050875,76.289142,38.691942
 Standard_M416s_12_v3,eastus2,East US 2,Memory optimized,Ms12v3,416,11400.0,0,x64,0,110.58,129.716,64.313356,31.050875,76.289142,38.691942
 Standard_M416s_12_v3,germanywestcentral,Germany West Central,Memory optimized,Ms12v3,416,11400.0,0,x64,0,132.696,151.832,77.176027,37.261035,91.54697,46.43033
@@ -28605,6 +28768,7 @@ Standard_M416s_12_v3,westus3,West US 3,Memory optimized,Ms12v3,416,11400.0,0,x64
 Standard_M416s_6_v3,brazilsouth,Brazil South,Memory optimized,Ms6v3,416,5696.0,0,x64,0,88.2189,107.3549,51.308105,24.77188,60.862219,30.867793
 Standard_M416s_6_v3,centralindia,Central India,Memory optimized,Ms6v3,416,5696.0,0,x64,0,57.06,76.196,33.186073,16.022451,39.365694,19.965294
 Standard_M416s_6_v3,centralus,Central US,Memory optimized,Ms6v3,416,5696.0,0,x64,0,62.49087,81.62687,36.344635,17.547451,43.112451,21.865555
+Standard_M416s_6_v3,eastasia,East Asia,Memory optimized,Ms6v3,416,5696.0,0,x64,0,85.71717,104.85317,49.853082,24.069368,59.136276,29.992438
 Standard_M416s_6_v3,eastus,East US,Memory optimized,Ms6v3,416,5696.0,0,x64,0,55.3014,74.4374,32.163242,15.528615,38.152436,19.34996
 Standard_M416s_6_v3,eastus2,East US 2,Memory optimized,Ms6v3,416,5696.0,0,x64,0,55.3014,74.4374,32.163242,15.528615,38.152436,19.34996
 Standard_M416s_6_v3,germanywestcentral,Germany West Central,Memory optimized,Ms6v3,416,5696.0,0,x64,0,66.36168,85.49768,38.596005,18.634361,45.782923,23.219952
@@ -28644,6 +28808,7 @@ Standard_M416s_8_v2,westus3,West US 3,Memory optimized,Ms8v2,416,7600.0,0,x64,40
 Standard_M416s_8_v3,brazilsouth,Brazil South,Memory optimized,Ms8v3,416,7600.0,0,x64,0,117.625203,136.761203,68.410845,33.029148,81.149628,41.157059
 Standard_M416s_8_v3,centralindia,Central India,Memory optimized,Ms8v3,416,7600.0,0,x64,0,76.077,95.213,44.246347,21.362405,52.485522,26.619342
 Standard_M416s_8_v3,centralus,Central US,Memory optimized,Ms8v3,416,7600.0,0,x64,0,83.32119,102.45719,48.459589,23.396575,57.483289,29.154084
+Standard_M416s_8_v3,eastasia,East Asia,Memory optimized,Ms8v3,416,7600.0,0,x64,0,114.28956,133.42556,66.470776,32.092504,78.848367,39.989917
 Standard_M416s_8_v3,eastus,East US,Memory optimized,Ms8v3,416,7600.0,0,x64,0,73.7352,92.8712,42.884361,20.704833,50.869914,25.799946
 Standard_M416s_8_v3,eastus2,East US 2,Memory optimized,Ms8v3,416,7600.0,0,x64,0,73.7352,92.8712,42.884361,20.704833,50.869914,25.799946
 Standard_M416s_8_v3,germanywestcentral,Germany West Central,Memory optimized,Ms8v3,416,7600.0,0,x64,0,88.48224,107.61824,51.461301,24.845814,61.043897,30.959936
@@ -28683,6 +28848,7 @@ Standard_M416s_9_v2,westus3,West US 3,Memory optimized,Ms9v2,416,8568.0,0,x64,40
 Standard_M416s_9_v3,brazilsouth,Brazil South,Memory optimized,Ms9v3,416,8568.0,0,x64,0,133.0028,152.1388,77.354338,37.347146,91.758632,46.53768
 Standard_M416s_9_v3,centralindia,Central India,Memory optimized,Ms9v3,416,8568.0,0,x64,0,85.6205,104.7565,49.796804,24.042237,59.069583,29.958613
 Standard_M416s_9_v3,centralus,Central US,Memory optimized,Ms9v3,416,8568.0,0,x64,0,93.9332,113.0692,54.631507,26.376446,64.804515,32.867227
+Standard_M416s_9_v3,eastasia,East Asia,Memory optimized,Ms9v3,416,8568.0,0,x64,0,128.846441,147.982441,74.936986,36.180061,88.89116,45.08337
 Standard_M416s_9_v3,eastus,East US,Memory optimized,Ms9v3,416,8568.0,0,x64,0,83.1267,102.2627,48.346461,23.341971,57.34911,29.086032
 Standard_M416s_9_v3,eastus2,East US 2,Memory optimized,Ms9v3,416,8568.0,0,x64,0,83.1267,102.2627,48.346461,23.341971,57.34911,29.086032
 Standard_M416s_9_v3,germanywestcentral,Germany West Central,Memory optimized,Ms9v3,416,8568.0,0,x64,0,99.7521,118.8881,58.015753,28.01035,68.818974,34.90326
@@ -28805,6 +28971,7 @@ Standard_M48s_1_v3,westus3,West US 3,Memory optimized,Ms1v3,48,974.0,0,x64,0,6.2
 Standard_M624ds_12_v3,brazilsouth,Brazil South,Memory optimized,Mds12v3,624,11400.0,0,x64,400,185.25969,213.96369,107.747032,52.020928,127.81066,64.822366
 Standard_M624ds_12_v3,centralindia,Central India,Memory optimized,Mds12v3,624,11400.0,0,x64,400,119.817,148.521,69.685616,33.644597,82.661748,41.923968
 Standard_M624ds_12_v3,centralus,Central US,Memory optimized,Mds12v3,624,11400.0,0,x64,400,131.2308,159.9348,76.323858,36.849619,90.536129,45.917657
+Standard_M624ds_12_v3,eastasia,East Asia,Memory optimized,Mds12v3,624,11400.0,0,x64,400,180.006057,208.710057,104.691553,50.5457,124.186179,62.984119
 Standard_M624ds_12_v3,eastus,East US,Memory optimized,Mds12v3,624,11400.0,0,x64,400,116.13294,144.83694,67.542922,32.610122,80.120115,40.634916
 Standard_M624ds_12_v3,eastus2,East US 2,Memory optimized,Mds12v3,624,11400.0,0,x64,400,116.13294,144.83694,67.542922,32.610122,80.120115,40.634916
 Standard_M624ds_12_v3,germanywestcentral,Germany West Central,Memory optimized,Mds12v3,624,11400.0,0,x64,400,139.356,168.06,81.049429,39.131164,96.141704,48.760664
@@ -28822,6 +28989,7 @@ Standard_M624ds_12_v3,westus3,West US 3,Memory optimized,Mds12v3,624,11400.0,0,x
 Standard_M624s_12_v3,brazilsouth,Brazil South,Memory optimized,Ms12v3,624,11400.0,0,x64,0,176.4378,205.1418,102.61621,49.543721,121.724438,61.735586
 Standard_M624s_12_v3,centralindia,Central India,Memory optimized,Ms12v3,624,11400.0,0,x64,0,114.111,142.815,66.367009,32.042352,78.725179,39.927439
 Standard_M624s_12_v3,centralus,Central US,Memory optimized,Ms12v3,624,11400.0,0,x64,0,124.98174,153.68574,72.689384,35.094863,86.224902,43.731111
+Standard_M624s_12_v3,eastasia,East Asia,Memory optimized,Ms12v3,624,11400.0,0,x64,0,171.43434,200.13834,99.706279,48.138775,118.272551,59.984876
 Standard_M624s_12_v3,eastus,East US,Memory optimized,Ms12v3,624,11400.0,0,x64,0,110.6028,139.3068,64.326598,31.057268,76.304872,38.69992
 Standard_M624s_12_v3,eastus2,East US 2,Memory optimized,Ms12v3,624,11400.0,0,x64,0,110.6028,139.3068,64.326598,31.057268,76.304872,38.69992
 Standard_M624s_12_v3,germanywestcentral,Germany West Central,Memory optimized,Ms12v3,624,11400.0,0,x64,0,132.72336,161.42736,77.191895,37.268721,91.565846,46.439904
@@ -29235,6 +29403,7 @@ Standard_M8-4ms,westus3,West US 3,Memory optimized,Mms,8,218.75,0,x64,256,1.536,
 Standard_M832ds_12_v3,brazilsouth,Brazil South,Memory optimized,Mds12v3,832,11400.0,0,x64,400,185.854785,224.126785,108.093151,52.188014,128.221216,65.030589
 Standard_M832ds_12_v3,centralindia,Central India,Memory optimized,Mds12v3,832,11400.0,0,x64,400,120.207625,158.479625,69.912785,33.7543,82.93124,42.060648
 Standard_M832ds_12_v3,centralus,Central US,Memory optimized,Mds12v3,832,11400.0,0,x64,400,131.652342,169.924342,76.56895,36.96796,90.826951,46.065154
+Standard_M832ds_12_v3,eastasia,East Asia,Memory optimized,Mds12v3,832,11400.0,0,x64,400,180.584275,218.856275,105.027968,50.708067,124.585091,63.186438
 Standard_M832ds_12_v3,eastus,East US,Memory optimized,Mds12v3,832,11400.0,0,x64,400,116.505984,154.777984,67.759932,32.714878,80.377478,40.765444
 Standard_M832ds_12_v3,eastus2,East US 2,Memory optimized,Mds12v3,832,11400.0,0,x64,400,116.505984,154.777984,67.759932,32.714878,80.377478,40.765444
 Standard_M832ds_12_v3,germanywestcentral,Germany West Central,Memory optimized,Mds12v3,832,11400.0,0,x64,400,139.808567,178.080567,81.312671,39.258257,96.45393,48.919018
@@ -29252,6 +29421,7 @@ Standard_M832ds_12_v3,westus3,West US 3,Memory optimized,Mds12v3,832,11400.0,0,x
 Standard_M832ids_16_v3,brazilsouth,Brazil South,Memory optimized,Mids16v3,832,15200.0,0,x64,400,274.4588,312.7308,159.625228,77.068037,189.349126,96.033134
 Standard_M832ids_16_v3,centralindia,Central India,Memory optimized,Mids16v3,832,15200.0,0,x64,400,177.51,215.78,103.239612,49.844711,122.464149,62.110749
 Standard_M832ids_16_v3,centralus,Central US,Memory optimized,Mids16v3,832,15200.0,0,x64,400,194.416,232.688,100.063584,48.311301,134.127598,68.026158
+Standard_M832ids_16_v3,eastasia,East Asia,Memory optimized,Mids16v3,832,15200.0,0,x64,400,266.67564,304.94764,155.09863,74.882534,183.979524,93.309806
 Standard_M832ids_16_v3,eastus,East US,Memory optimized,Mids16v3,832,15200.0,0,x64,400,172.0488,210.3208,100.063584,48.311301,118.696467,60.199875
 Standard_M832ids_16_v3,eastus2,East US 2,Memory optimized,Mids16v3,832,15200.0,0,x64,400,172.0488,210.3208,100.063584,48.311301,118.696467,60.199875
 Standard_M832ids_16_v3,germanywestcentral,Germany West Central,Memory optimized,Mids16v3,832,15200.0,0,x64,400,206.46,244.73,120.080023,57.970015,142.436754,72.240354
@@ -29269,6 +29439,7 @@ Standard_M832ids_16_v3,westus3,West US 3,Memory optimized,Mids16v3,832,15200.0,0
 Standard_M832is_16_v3,brazilsouth,Brazil South,Memory optimized,Mis16v3,832,15200.0,0,x64,0,261.38933,299.66133,152.023973,73.398135,180.332499,91.460127
 Standard_M832is_16_v3,centralindia,Central India,Memory optimized,Mis16v3,832,15200.0,0,x64,0,169.06,207.33,98.323402,47.471157,116.634494,59.154094
 Standard_M832is_16_v3,centralus,Central US,Memory optimized,Mis16v3,832,15200.0,0,x64,0,185.1581,223.4301,95.29863,46.010769,127.740573,64.786819
+Standard_M832is_16_v3,eastasia,East Asia,Memory optimized,Mis16v3,832,15200.0,0,x64,0,253.9768,292.2488,147.7129,71.316705,175.218594,88.866482
 Standard_M832is_16_v3,eastus,East US,Memory optimized,Mis16v3,832,15200.0,0,x64,0,163.856,202.128,95.29863,46.010769,113.044254,57.333214
 Standard_M832is_16_v3,eastus2,East US 2,Memory optimized,Mis16v3,832,15200.0,0,x64,0,163.856,202.128,95.29863,46.010769,113.044254,57.333214
 Standard_M832is_16_v3,germanywestcentral,Germany West Central,Memory optimized,Mis16v3,832,15200.0,0,x64,0,196.6272,234.8992,114.358333,55.2129,135.653105,68.799857
@@ -29286,6 +29457,7 @@ Standard_M832is_16_v3,westus3,West US 3,Memory optimized,Mis16v3,832,15200.0,0,x
 Standard_M832s_12_v3,brazilsouth,Brazil South,Memory optimized,Ms12v3,832,11400.0,0,x64,0,177.004557,215.276557,102.94589,49.702892,122.115444,61.933894
 Standard_M832s_12_v3,centralindia,Central India,Memory optimized,Ms12v3,832,11400.0,0,x64,0,114.478371,152.750371,66.580594,32.14551,78.978628,40.055982
 Standard_M832s_12_v3,centralus,Central US,Memory optimized,Ms12v3,832,11400.0,0,x64,0,125.383159,163.655159,72.922831,35.207572,86.501841,43.871567
+Standard_M832s_12_v3,eastasia,East Asia,Memory optimized,Ms12v3,832,11400.0,0,x64,0,171.985024,210.257024,100.026484,48.293417,118.652468,60.17756
 Standard_M832s_12_v3,eastus,East US,Memory optimized,Ms12v3,832,11400.0,0,x64,0,110.95808,149.23008,64.533219,31.15704,76.549979,38.824232
 Standard_M832s_12_v3,eastus2,East US 2,Memory optimized,Ms12v3,832,11400.0,0,x64,0,110.95808,149.23008,64.533219,31.15704,76.549979,38.824232
 Standard_M832s_12_v3,germanywestcentral,Germany West Central,Memory optimized,Ms12v3,832,11400.0,0,x64,0,133.149664,171.421664,77.43984,37.388432,91.859953,46.589067
